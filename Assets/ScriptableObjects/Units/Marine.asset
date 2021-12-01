@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3edea0823132dde4ba8d2d09a855d590, type: 3}
+  m_Name: Marine
+  m_EditorClassIdentifier: 
+  type: 1
+  name: Marine
+  unitPrefab: {fileID: 1207979042018821854, guid: 1cb38968f2a116d4a82b486773b12415, type: 3}
+  enemyPrefab: {fileID: 1933762984151699215, guid: 250f2c0c2c6921e4dbe54644112e0473, type: 3}
+  icon: {fileID: 5392786933212251445, guid: d6a00cec837448144994fd7226e67947, type: 3}
+  spawnTime: 5
+  baseStats:
+    cost: 50
+    cost2: 0
+    cost3: 0
+    aggroRange: 10
+    atkRange: 5
+    atkspeed: 2
+    attack: 10
+    health: 100
+    armor: 2
+    speed: 0
