@@ -16,14 +16,14 @@ MonoBehaviour:
   name: CommandCenter
   buildingPrefab: {fileID: 6832546976083654960, guid: 4ee0b7beeaf102145b74f50922d8d3b9, type: 3}
   icon: {fileID: 5392786933212251445, guid: e9a1dc64b970cab4195e6934e4f7efba, type: 3}
-  icon2:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  spawnTime: 0
+  spawnTime: 120
   baseStats:
-    cost: 400
-    cost2: 0
-    health: 200
-    armor: 5
-    attack: 0
+    mineral: 400
+    gas: 0
+    health: 1500
+    armor: 1
+    eyesight: 10
+    building_size: 2
+    ground: 1
+    mechanic: 1
+    building: 1

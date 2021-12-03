@@ -267,4 +267,6 @@ MonoBehaviour:
   maxHealth: 0
   armor: 0
   currentHealth: 0
+  maxmp: 0
+  mp: 0
   healthBarAmount: {fileID: 5321223415112846808}

@@ -13,14 +13,17 @@ MonoBehaviour:
   m_Name: EnigneerungBay
   m_EditorClassIdentifier: 
   type: 4
-  name: 
+  name: EnigneerungBay
   buildingPrefab: {fileID: 0}
   icon: {fileID: 0}
-  icon2: []
-  spawnTime: 0
+  spawnTime: 60
   baseStats:
-    cost: 125
-    cost2: 0
-    health: 0
-    armor: 0
-    attack: 0
+    mineral: 125
+    gas: 0
+    health: 850
+    armor: 1
+    eyesight: 8
+    building_size: 2
+    ground: 1
+    mechanic: 1
+    building: 1

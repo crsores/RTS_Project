@@ -16,11 +16,14 @@ MonoBehaviour:
   name: Armory
   buildingPrefab: {fileID: 0}
   icon: {fileID: 0}
-  icon2: []
-  spawnTime: 0
+  spawnTime: 80
   baseStats:
-    cost: 100
-    cost2: 50
-    health: 0
-    armor: 0
-    attack: 0
+    mineral: 100
+    gas: 50
+    health: 750
+    armor: 1
+    eyesight: 8
+    building_size: 2
+    ground: 1
+    mechanic: 1
+    building: 1

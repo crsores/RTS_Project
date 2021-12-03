@@ -16,11 +16,14 @@ MonoBehaviour:
   name: ScinceFacility
   buildingPrefab: {fileID: 0}
   icon: {fileID: 0}
-  icon2: []
-  spawnTime: 0
+  spawnTime: 60
   baseStats:
-    cost: 100
-    cost2: 150
-    health: 0
-    armor: 0
-    attack: 0
+    mineral: 100
+    gas: 150
+    health: 850
+    armor: 1
+    eyesight: 10
+    building_size: 2
+    ground: 1
+    mechanic: 1
+    building: 1

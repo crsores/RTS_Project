@@ -9,7 +9,23 @@ namespace Building
         [System.Serializable]
         public class Base
         {
-            public float cost,cost2,health, armor, attack;
+            public float mineral, gas, health, armor, eyesight;
+
+
+            public enum size
+            {
+                small,
+                normal,
+                big
+            }
+
+            public size building_size;
+
+            public bool ground;
+
+            public bool mechanic;
+
+            public bool building;
         }
     }
 }

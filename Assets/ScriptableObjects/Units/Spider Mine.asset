@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3edea0823132dde4ba8d2d09a855d590, type: 3}
+  m_Name: Spider Mine
+  m_EditorClassIdentifier: 
+  type: 13
+  name: SpiderMine
+  unitPrefab: {fileID: 0}
+  enemyPrefab: {fileID: 0}
+  icon: {fileID: 0}
+  spawnTime: 0
+  baseStats:
+    mineral: 0
+    gas: 0
+    supply: 0
+    health: 20
+    armor: 0
+    armorplus: 0
+    eyesight: 3
+    speed: 7.5
+    maxmp: 0
+    mp: 0
+    atkRange: 0
+    atkspeed: 0
+    attack: 125
+    airattack: 0
+    airattackrange: 0
+    attackplus: 0
+    airattackplus: 0
+    DrodCount: 0
+    bionic: 0
+    mechanic: 1
+    ground: 1
+    air: 0
+    floating: 0
+    ground_type: 2
+    air_type: 0
+    unit_size: 0

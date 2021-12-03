@@ -16,11 +16,14 @@ MonoBehaviour:
   name: MissileTurret
   buildingPrefab: {fileID: 0}
   icon: {fileID: 0}
-  icon2: []
-  spawnTime: 0
+  spawnTime: 30
   baseStats:
-    cost: 75
-    cost2: 0
-    health: 0
+    mineral: 75
+    gas: 0
+    health: 200
     armor: 0
-    attack: 0
+    eyesight: 11
+    building_size: 2
+    ground: 1
+    mechanic: 1
+    building: 1

@@ -121,7 +121,7 @@ namespace Interactables
             GameObject spawnedObject = Instantiate(spawnOrder[0], new Vector3(spawnMakrer.transform.position.x,
                 spawnMakrer.transform.position.y, spawnMakrer.transform.position.z), Quaternion.identity);
             Units.Player.PlayerUnit pu = spawnedObject.GetComponent<Units.Player.PlayerUnit>();
-            pu.transform.SetParent(GameObject.Find("P_" + pu.unitType.type.ToString() + "s").transform);
+            //pu.transform.SetParent(GameObject.Find("P_" + pu.unitType.type.ToString() + "s").transform);
 
 
             spawnedObject.GetComponent<Units.Player.PlayerUnit>().SetDestinatin(spawnMakrer2.transform.position);

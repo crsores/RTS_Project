@@ -16,11 +16,14 @@ MonoBehaviour:
   name: Starport
   buildingPrefab: {fileID: 0}
   icon: {fileID: 0}
-  icon2: []
-  spawnTime: 0
+  spawnTime: 70
   baseStats:
-    cost: 150
-    cost2: 100
-    health: 0
-    armor: 0
-    attack: 0
+    mineral: 150
+    gas: 100
+    health: 1300
+    armor: 1
+    eyesight: 10
+    building_size: 2
+    ground: 1
+    mechanic: 1
+    building: 1

@@ -28,28 +28,28 @@ namespace Units
             //eUnitLayer = LayerMask.NameToLayer("enemyUnits");
         }
 
-        public UnitStatType.Base GetBasicUnitStats(string type)
-        {
-            //유닛 정복 가져오기
-            BasicUnit unit;
-            switch (type)
-            {
-                case "worker":
-                    unit = worker;
-                    break;
-                case "warrior":
-                    unit = warrior;
-                    break;
+        //public UnitStatType.Base GetBasicUnitStats(string type)
+        //{
+        //    //유닛 정복 가져오기
+        //    BasicUnit unit;
+        //    switch (type)
+        //    {
+        //        case "worker":
+        //            unit = worker;
+        //            break;
+        //        case "warrior":
+        //            unit = warrior;
+        //            break;
 
-                case "healer":
-                    unit = healer;
-                    break;
-                default:
-                    Debug.Log($"Unit Type: {type} could not be found or does not exist!");
-                    return null;
-            }
-            return unit.baseStats;
-        }
+        //        case "healer":
+        //            unit = healer;
+        //            break;
+        //        default:
+        //            Debug.Log($"Unit Type: {type} could not be found or does not exist!");
+        //            return null;
+        //    }
+        //    return unit.baseStats;
+        //}
        
     }
 }

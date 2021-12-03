@@ -32,7 +32,7 @@ namespace Building
         public new string name;
         public GameObject buildingPrefab;
         public GameObject icon;
-        public List<GameObject> icon2 = new List<GameObject>();
+       // public List<GameObject> icon2 = new List<GameObject>();
         public float spawnTime;
 
         [Space(15)]

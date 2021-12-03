@@ -17,13 +17,31 @@ MonoBehaviour:
   unitPrefab: {fileID: 1207979042018821854, guid: 78ac8fd75c6dcc34797aafaaf66c18f7, type: 3}
   enemyPrefab: {fileID: 1933762984151699215, guid: 4ac5119517378ba43aeb63865de7ddf1, type: 3}
   icon: {fileID: 5392786933212251445, guid: 9a4b52facfa6f4b47a8b146966c502ea, type: 3}
-  spawnTime: 2
+  spawnTime: 20
   baseStats:
-    cost: 50
-    cost2: 0
-    aggroRange: 0
-    atkRange: 1
-    atkspeed: 3
-    attack: 1
-    health: 75
+    mineral: 50
+    gas: 0
+    supply: 1
+    health: 60
     armor: 0
+    armorplus: 1
+    eyesight: 7
+    speed: 2.344
+    maxmp: 0
+    mp: 0
+    atkRange: 1
+    atkspeed: 1.5
+    attack: 5
+    airattack: 0
+    airattackrange: 0
+    attackplus: 0
+    airattackplus: 0
+    DrodCount: 1
+    bionic: 1
+    mechanic: 1
+    ground: 1
+    air: 0
+    floating: 1
+    ground_type: 0
+    air_type: 0
+    unit_size: 0

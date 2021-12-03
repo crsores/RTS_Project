@@ -19,6 +19,8 @@ namespace Units.Enemy
 
         private UnitStatDisplay aggroUnit;
 
+        
+
        // public GameObject unitstatDisplay;
 
      //   public Image healthbarAmount;
@@ -48,7 +50,7 @@ namespace Units.Enemy
             }
             else
             {
-                Attack();
+                //Attack();
                 MoveToAggroTarget();
             }
             
@@ -60,18 +62,23 @@ namespace Units.Enemy
         
         private void checkForEnemyTargets() //범위안 타겟찾음
         {
-            rangeColliders = Physics.OverlapSphere(transform.position, baseStats.aggroRange, UnitHandler.instance.pUnitLayer);
+            rangeColliders = Physics.OverlapSphere(transform.position, baseStats.eyesight, UnitHandler.instance.pUnitLayer);
 
             for (int i =0; i < rangeColliders.Length;)
             {
                 aggerTarget = rangeColliders[i].gameObject.transform;
                 aggroUnit = aggerTarget.gameObject.GetComponentInChildren<UnitStatDisplay>();
+                
+
                 hasAggero = true;
                 break;
             }
         }
+
         private void Attack()
         {
+            
+            
             if (atkCooldown <= 0&&distance<=baseStats.atkRange)
             {
                 aggroUnit.TakeDamage(baseStats.attack);
@@ -89,7 +96,7 @@ namespace Units.Enemy
             {
                 distance = Vector3.Distance(aggerTarget.position, transform.position);
 
-                if (distance <= baseStats.aggroRange)
+                if (distance <= baseStats.eyesight)
                 {
                     //Debug.Log("이동");
                     transform.position = Vector3.MoveTowards(transform.position, aggerTarget.position, 3f * Time.deltaTime);

@@ -9,21 +9,12 @@ namespace Units
         [System.Serializable]
         public class Base
         {
-            public float cost,cost2,cost3,aggroRange, atkRange,atkspeed, attack,attackplus, health, armor,armorplus,speed, eyesight;
 
-            public int DrodCount;
-
-            public bool ground;
-
-            public enum characteristic
+            public enum atk_type
             {
                 normal,
                 vibration,
-                explosion
-
-
-
-
+                blast
             }
 
             public enum size
@@ -31,11 +22,27 @@ namespace Units
                 small,
                 normal,
                 big
-
             }
+            public float mineral, gas, supply, health, armor, armorplus, eyesight, speed, maxmp, mp;
+            public float atkRange,atkspeed, attack,airattack, airattackrange,attackplus,airattackplus;
 
+            public int DrodCount;
 
+            public bool bionic;
 
+            public bool mechanic;
+
+            public bool ground;
+
+            public bool air;
+
+            public bool floating;
+
+            public atk_type ground_type;
+            public atk_type air_type;
+            public size unit_size;
+
+            
 
 
 

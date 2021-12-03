@@ -23,7 +23,8 @@ namespace Units
             Dropship,
             ScinceVessel,
             BattleCruiser,
-            Valkyrie
+            Valkyrie,
+            SpiderMine
 
 
 

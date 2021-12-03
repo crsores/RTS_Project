@@ -9,7 +9,7 @@ using System;
 namespace Units {
     public class UnitStatDisplay : MonoBehaviour
     {
-        public float maxHealth, armor, currentHealth;
+        public float maxHealth, armor, currentHealth,maxmp,mp;
         [SerializeField] private Image healthBarAmount;
 
         private bool isPlayerUnit = false;
@@ -22,6 +22,9 @@ namespace Units {
             maxHealth = stats.health;
             armor = stats.armor;
             isPlayerUnit = isPlayer;
+            maxmp = stats.maxmp;
+            mp = stats.mp;
+
 
             currentHealth = maxHealth;
         }
@@ -31,6 +34,7 @@ namespace Units {
             maxHealth = stats.health;
             armor = stats.armor;
             isPlayerUnit = isPLayer;
+            
 
             currentHealth = maxHealth;
         }

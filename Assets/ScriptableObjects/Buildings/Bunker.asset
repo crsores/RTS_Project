@@ -16,11 +16,14 @@ MonoBehaviour:
   name: Bunker
   buildingPrefab: {fileID: 0}
   icon: {fileID: 0}
-  icon2: []
-  spawnTime: 0
+  spawnTime: 30
   baseStats:
-    cost: 100
-    cost2: 0
-    health: 0
-    armor: 0
-    attack: 0
+    mineral: 100
+    gas: 0
+    health: 350
+    armor: 1
+    eyesight: 10
+    building_size: 2
+    ground: 1
+    mechanic: 1
+    building: 1
