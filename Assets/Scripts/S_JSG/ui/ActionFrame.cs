@@ -12,7 +12,9 @@ namespace UI.HUD
         [SerializeField] private Button actionButton = null;
         [SerializeField] private Transform layoutGroup = null;
 
-        private List<Button> buttons = new List<Button>();
+        //private List<Button> buttons = new List<Button>();
+        public List<GameObject> buttons = new List<GameObject>();
+
         public PlayerAction actionsList = null;
 
        // public List<float> SpawnQueue = new List<float>();
@@ -40,11 +42,12 @@ namespace UI.HUD
                 foreach(Units.BasicUnit unit in actions.basicUnits)
                 {
                     
-                    Button btn = Instantiate(actionButton, layoutGroup);
-                    btn.name = unit.name; 
-                    GameObject icon = Instantiate(unit.icon, btn.transform);
+                    //Button btn = Instantiate(actionButton, layoutGroup);
+                    //btn.name = unit.name; 
+                    GameObject icon = Instantiate(unit.icon, layoutGroup);
+                    icon.name = unit.name;
                     //add text etc?..
-                    buttons.Add(btn);
+                    buttons.Add(icon);
                 }
             }
             if (actions.basicBuildings.Count > 0)
@@ -55,14 +58,21 @@ namespace UI.HUD
                     Button btn = Instantiate(actionButton, layoutGroup);
                     btn.name = building.name;
                     GameObject icon = Instantiate(building.icon, btn.transform);
-                    buttons.Add(btn);
+                    buttons.Add(icon);
                 }
             }
+            //if (actions.skill.Count > 0)
+            //{
+            //    foreach(GameObject Skil in actions.skill)
+            //    {
+            //        GameObject icon = Instantiate(actions.skill,layoutGroup);
+            //    }
+            //}
         }
 
         public void ClearActions() //비활성화시 
         {
-            foreach (Button btn in buttons)
+            foreach (GameObject btn in buttons)
             {
                // buttons.Remove(btn);
                 Destroy(btn.gameObject);

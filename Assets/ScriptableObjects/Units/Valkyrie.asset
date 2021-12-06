@@ -16,7 +16,7 @@ MonoBehaviour:
   name: Valkyrie
   unitPrefab: {fileID: 0}
   enemyPrefab: {fileID: 0}
-  icon: {fileID: 0}
+  icon: {fileID: 8073966420206880222, guid: 4a4a843671332f448bed63a42f860830, type: 3}
   spawnTime: 50
   baseStats:
     mineral: 25
@@ -41,6 +41,7 @@ MonoBehaviour:
     mechanic: 1
     ground: 0
     air: 1
+    floating: 0
     ground_type: 0
     air_type: 2
     unit_size: 2
