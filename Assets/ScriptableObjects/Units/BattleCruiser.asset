@@ -14,8 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 11
   name: BattleCruiser
-  unitPrefab: {fileID: 0}
-  enemyPrefab: {fileID: 0}
+  unitPrefab: {fileID: 7630571099901803435, guid: d1056122f04a5f04bb9a626a002e5449, type: 3}
   icon: {fileID: 3183055419704855484, guid: c881a668da9f0e7449a58e15fda2c937, type: 3}
   spawnTime: 133
   baseStats:

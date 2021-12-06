@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1333463847535165973}
-  m_Layer: 10
+  m_Layer: 7
   m_Name: SpawnMarker (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 5310598582528857546}
   - component: {fileID: 5286297215137297059}
   - component: {fileID: 3958344634792806434}
-  m_Layer: 10
+  m_Layer: 7
   m_Name: building 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -145,9 +145,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   buildingType: {fileID: 11400000, guid: 5048528ac115fee499370890ba3402e4, type: 2}
   baseStats:
+    mineral: 0
+    gas: 0
     health: 0
     armor: 0
-    attack: 0
+    eyesight: 0
+    building_size: 0
+    ground: 0
+    mechanic: 0
+    building: 0
   statDisplay: {fileID: 6265004436572201358}
 --- !u!114 &3958344634792806434
 MonoBehaviour:
@@ -179,7 +185,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4477411180352932169}
   - component: {fileID: 504498026817022575}
-  m_Layer: 10
+  m_Layer: 7
   m_Name: Highlight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -260,7 +266,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6719732430982953129}
-  m_Layer: 10
+  m_Layer: 7
   m_Name: SpawnMarker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -292,9 +298,21 @@ PrefabInstance:
       propertyPath: m_PresetInfoIsWorld
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1886613106885978279, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3117631714811628256, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_Name
       value: UnitStatDisPlay
+      objectReference: {fileID: 0}
+    - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_Pivot.x

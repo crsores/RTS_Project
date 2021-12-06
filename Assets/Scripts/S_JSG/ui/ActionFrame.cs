@@ -9,11 +9,11 @@ namespace UI.HUD
     {
         public static ActionFrame instance = null;
 
-        [SerializeField] private Button actionButton = null;
+       // [SerializeField] private Button actionButton = null;
         [SerializeField] private Transform layoutGroup = null;
 
         //private List<Button> buttons = new List<Button>();
-        public List<GameObject> buttons = new List<GameObject>();
+       public List<GameObject> buttons = new List<GameObject>();
 
         public PlayerAction actionsList = null;
 
@@ -55,19 +55,22 @@ namespace UI.HUD
                 foreach(Building.BasicBuilding building in actions.basicBuildings)
                 {
                     Debug.Log(actions.basicUnits);
-                    Button btn = Instantiate(actionButton, layoutGroup);
-                    btn.name = building.name;
-                    GameObject icon = Instantiate(building.icon, btn.transform);
+                    //Button btn = Instantiate(actionButton, layoutGroup);
+                   // btn.name = building.name;
+                   // GameObject icon = Instantiate(building.icon, btn.transform);
+                   // buttons.Add(icon);
+                }
+            }
+            if (actions.Behavior.Count > 0)
+            {
+                foreach(Behavior.player_Skill p_skill in actions.Behavior)
+                {
+
+                    GameObject icon = Instantiate(p_skill.icon, layoutGroup);
+                    icon.name = p_skill.name;
                     buttons.Add(icon);
                 }
             }
-            //if (actions.skill.Count > 0)
-            //{
-            //    foreach(GameObject Skil in actions.skill)
-            //    {
-            //        GameObject icon = Instantiate(actions.skill,layoutGroup);
-            //    }
-            //}
         }
 
         public void ClearActions() //비활성화시 

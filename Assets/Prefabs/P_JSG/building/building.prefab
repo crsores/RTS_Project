@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1333463847535165973}
-  m_Layer: 10
+  m_Layer: 7
   m_Name: SpawnMarker (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 5310598582528857546}
   - component: {fileID: 5286297215137297059}
   - component: {fileID: 3958344634792806434}
-  m_Layer: 10
+  m_Layer: 7
   m_Name: building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -143,11 +143,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1f0ea10e5c18ed468df52f7c344e53c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  buildingType: {fileID: 11400000, guid: 5048528ac115fee499370890ba3402e4, type: 2}
+  buildingType: {fileID: 11400000, guid: 70d948cc719a87e45938001603785b95, type: 2}
   baseStats:
+    mineral: 0
+    gas: 0
     health: 0
     armor: 0
-    attack: 0
+    eyesight: 0
+    building_size: 0
+    ground: 0
+    mechanic: 0
+    building: 0
   statDisplay: {fileID: 7707870795664920500}
 --- !u!114 &3958344634792806434
 MonoBehaviour:
@@ -163,7 +169,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isInteracting: 0
   highlight: {fileID: 6907328696549516658}
-  actions: {fileID: 11400000, guid: 71e5506a536e25f4d8bc974ec3348e59, type: 2}
+  actions: {fileID: 11400000, guid: 4fd51f07732e36a4a8cbfeb2dc9d22a9, type: 2}
   spawnMakrer: {fileID: 8922440569209120850}
   spawnMakrer2: {fileID: 1335807762789394430}
   SpawnQueue: []
@@ -179,7 +185,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4477411180352932169}
   - component: {fileID: 504498026817022575}
-  m_Layer: 10
+  m_Layer: 7
   m_Name: Highlight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -260,7 +266,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6719732430982953129}
-  m_Layer: 10
+  m_Layer: 7
   m_Name: SpawnMarker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -292,9 +298,21 @@ PrefabInstance:
       propertyPath: m_PresetInfoIsWorld
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1886613106885978279, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3117631714811628256, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_Name
       value: UnitStatDisPlay
+      objectReference: {fileID: 0}
+    - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_Pivot.x

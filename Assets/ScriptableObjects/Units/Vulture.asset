@@ -14,10 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 5
   name: Vulture
-  unitPrefab: {fileID: 0}
-  enemyPrefab: {fileID: 0}
-  icon: {fileID: 3796934922410250752, guid: 16181c6cdb8001c46b8f03a7ea219492, type: 3}
-  spawnTime: 30
+  unitPrefab: {fileID: 4997115473153029019, guid: 71213ec325ea0d3478386c5218faf78e, type: 3}
+  icon: {fileID: 5392786933212251445, guid: d7b9ccd43136a3c4ba561eb052bd926a, type: 3}
+  spawnTime: 3
   baseStats:
     mineral: 75
     gas: 0

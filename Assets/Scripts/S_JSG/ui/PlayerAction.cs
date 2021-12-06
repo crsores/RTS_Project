@@ -6,7 +6,7 @@ using UnityEngine;
 namespace UI.HUD
 {
 
-    [CreateAssetMenu(fileName ="NewPlayerActions",menuName ="PlayerActios")]
+    [CreateAssetMenu(fileName ="NewButtonList",menuName = "NewButtonList")]
     public class PlayerAction : ScriptableObject
     {
         [Space(5)]
@@ -22,7 +22,7 @@ namespace UI.HUD
         [Space(15)]
 
 
-        [Header("Skill")]
-        public List<GameObject> skill = new List<GameObject>();
+        [Header("Button")]
+        public List<Behavior.player_Skill>Behavior = new List<Behavior.player_Skill>();
     }
 }

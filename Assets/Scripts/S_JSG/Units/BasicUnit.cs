@@ -37,7 +37,7 @@ namespace Units
         public new string name;
 
         public GameObject unitPrefab;
-        public GameObject enemyPrefab;
+        //public GameObject enemyPrefab;
         
         public GameObject icon;
         public float spawnTime;
