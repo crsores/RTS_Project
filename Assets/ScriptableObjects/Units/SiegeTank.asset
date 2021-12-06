@@ -16,7 +16,7 @@ MonoBehaviour:
   name: SiegeTank
   unitPrefab: {fileID: 0}
   enemyPrefab: {fileID: 0}
-  icon: {fileID: 0}
+  icon: {fileID: 6089496173135048827, guid: fc90f5847987dfc48acdc51f90e854ed, type: 3}
   spawnTime: 50
   baseStats:
     mineral: 150
@@ -41,6 +41,7 @@ MonoBehaviour:
     mechanic: 1
     ground: 1
     air: 0
+    floating: 0
     ground_type: 0
     air_type: 0
     unit_size: 2

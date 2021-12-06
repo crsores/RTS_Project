@@ -16,7 +16,7 @@ MonoBehaviour:
   name: ScineVessel
   unitPrefab: {fileID: 0}
   enemyPrefab: {fileID: 0}
-  icon: {fileID: 0}
+  icon: {fileID: 991091490945115166, guid: 2b72ae5cb7b11f8439c25efe20629a04, type: 3}
   spawnTime: 80
   baseStats:
     mineral: 100
@@ -41,6 +41,7 @@ MonoBehaviour:
     mechanic: 1
     ground: 0
     air: 1
+    floating: 0
     ground_type: 0
     air_type: 0
     unit_size: 2

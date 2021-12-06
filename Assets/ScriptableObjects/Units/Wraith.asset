@@ -16,7 +16,7 @@ MonoBehaviour:
   name: Wraith
   unitPrefab: {fileID: 0}
   enemyPrefab: {fileID: 0}
-  icon: {fileID: 0}
+  icon: {fileID: 3420509692643553310, guid: 126829d8b14ef5f45b513702c5a743d7, type: 3}
   spawnTime: 60
   baseStats:
     mineral: 150
@@ -41,6 +41,7 @@ MonoBehaviour:
     mechanic: 1
     ground: 0
     air: 1
+    floating: 0
     ground_type: 0
     air_type: 2
     unit_size: 2

@@ -16,7 +16,7 @@ MonoBehaviour:
   name: Medic
   unitPrefab: {fileID: 1207979042018821854, guid: c67f790c0267fce438f316fb2bb16b31, type: 3}
   enemyPrefab: {fileID: 1933762984151699215, guid: 9c274da7687d5224fb860c264bea1be8, type: 3}
-  icon: {fileID: 5392786933212251445, guid: e9a1dc64b970cab4195e6934e4f7efba, type: 3}
+  icon: {fileID: 5392786933212251445, guid: 9a4b52facfa6f4b47a8b146966c502ea, type: 3}
   spawnTime: 30
   baseStats:
     mineral: 50
@@ -41,6 +41,7 @@ MonoBehaviour:
     mechanic: 0
     ground: 1
     air: 0
+    floating: 0
     ground_type: 0
     air_type: 0
     unit_size: 0

@@ -18,5 +18,11 @@ namespace UI.HUD
         [Space(15)]
 
         public List<Building.BasicBuilding> basicBuildings = new List<Building.BasicBuilding>();
+
+        [Space(15)]
+
+
+        [Header("Skill")]
+        public List<GameObject> skill = new List<GameObject>();
     }
 }

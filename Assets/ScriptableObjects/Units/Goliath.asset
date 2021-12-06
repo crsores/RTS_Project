@@ -16,7 +16,7 @@ MonoBehaviour:
   name: Goliath
   unitPrefab: {fileID: 0}
   enemyPrefab: {fileID: 0}
-  icon: {fileID: 0}
+  icon: {fileID: 8934407755775411808, guid: 934cdff242406bd4c954b4c25f74f4d6, type: 3}
   spawnTime: 40
   baseStats:
     mineral: 100
@@ -41,6 +41,7 @@ MonoBehaviour:
     mechanic: 0
     ground: 0
     air: 0
+    floating: 0
     ground_type: 0
     air_type: 2
     unit_size: 2

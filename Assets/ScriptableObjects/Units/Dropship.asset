@@ -16,7 +16,7 @@ MonoBehaviour:
   name: Dropship
   unitPrefab: {fileID: 0}
   enemyPrefab: {fileID: 0}
-  icon: {fileID: 0}
+  icon: {fileID: 2714276519963429002, guid: ca1e574c6685afb418d36fbf4b18e85d, type: 3}
   spawnTime: 50
   baseStats:
     mineral: 100
@@ -41,6 +41,7 @@ MonoBehaviour:
     mechanic: 1
     ground: 0
     air: 1
+    floating: 0
     ground_type: 0
     air_type: 0
     unit_size: 2
