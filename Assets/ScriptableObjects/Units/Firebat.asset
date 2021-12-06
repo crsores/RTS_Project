@@ -16,7 +16,7 @@ MonoBehaviour:
   name: Firebat
   unitPrefab: {fileID: 0}
   enemyPrefab: {fileID: 0}
-  icon: {fileID: 7284433714865931057, guid: 00d843458f60efd439c6768b9b8d23a8, type: 3}
+  icon: {fileID: 5392786933212251445, guid: e9a1dc64b970cab4195e6934e4f7efba, type: 3}
   spawnTime: 24
   baseStats:
     mineral: 50

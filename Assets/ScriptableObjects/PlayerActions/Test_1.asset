@@ -14,6 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   basicUnits:
   - {fileID: 11400000, guid: 902f2ed501565124594d2f48ac862d7f, type: 2}
-  - {fileID: 11400000, guid: 99bfeaef32e99804dace9f6b816d2777, type: 2}
-  - {fileID: 11400000, guid: 392918586934f394a8e0392d4343f16e, type: 2}
   basicBuildings: []
+  skill: []

@@ -16,7 +16,7 @@ MonoBehaviour:
   name: Marine
   unitPrefab: {fileID: 1207979042018821854, guid: 1cb38968f2a116d4a82b486773b12415, type: 3}
   enemyPrefab: {fileID: 1933762984151699215, guid: 250f2c0c2c6921e4dbe54644112e0473, type: 3}
-  icon: {fileID: 5392786933212251445, guid: 9a4b52facfa6f4b47a8b146966c502ea, type: 3}
+  icon: {fileID: 5392786933212251445, guid: a8466a748999087489cb7fee866c804b, type: 3}
   spawnTime: 24
   baseStats:
     mineral: 50
