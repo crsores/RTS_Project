@@ -1,0 +1,2952 @@
+fileFormatVersion: 2
+guid: 0bd190f78dfc0604c91b85a0429d2e46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1887711966435434499
+    second: StarCraft - Cursors_0
+  - first:
+      213: 1728027725487446349
+    second: StarCraft - Cursors_1
+  - first:
+      213: 4460975307537280598
+    second: StarCraft - Cursors_2
+  - first:
+      213: -7771252930428444931
+    second: StarCraft - Cursors_3
+  - first:
+      213: -7763799062329967757
+    second: StarCraft - Cursors_4
+  - first:
+      213: -7626852064186642013
+    second: StarCraft - Cursors_5
+  - first:
+      213: -5900191352453106061
+    second: StarCraft - Cursors_6
+  - first:
+      213: 1708661105382919268
+    second: StarCraft - Cursors_7
+  - first:
+      213: 3915270260206713356
+    second: StarCraft - Cursors_8
+  - first:
+      213: 1543968039063235624
+    second: StarCraft - Cursors_9
+  - first:
+      213: 4961145471722198331
+    second: StarCraft - Cursors_10
+  - first:
+      213: 4860263663358371862
+    second: StarCraft - Cursors_11
+  - first:
+      213: 5218615767711716050
+    second: StarCraft - Cursors_12
+  - first:
+      213: -2703861991780624441
+    second: StarCraft - Cursors_13
+  - first:
+      213: 776513081323777248
+    second: StarCraft - Cursors_14
+  - first:
+      213: -7975159133840642097
+    second: StarCraft - Cursors_15
+  - first:
+      213: 1160804042630264374
+    second: StarCraft - Cursors_16
+  - first:
+      213: -1069361486800959819
+    second: StarCraft - Cursors_17
+  - first:
+      213: -7263248509223905688
+    second: StarCraft - Cursors_18
+  - first:
+      213: -2833282134168458063
+    second: StarCraft - Cursors_19
+  - first:
+      213: 4865256547017262924
+    second: StarCraft - Cursors_20
+  - first:
+      213: 3195619141783933960
+    second: StarCraft - Cursors_21
+  - first:
+      213: 1787417352178847580
+    second: StarCraft - Cursors_22
+  - first:
+      213: 2504565948619309941
+    second: StarCraft - Cursors_23
+  - first:
+      213: -55953222078394223
+    second: StarCraft - Cursors_24
+  - first:
+      213: 5029320244677824728
+    second: StarCraft - Cursors_25
+  - first:
+      213: 3591307069388061712
+    second: StarCraft - Cursors_26
+  - first:
+      213: 2116463994176253654
+    second: StarCraft - Cursors_27
+  - first:
+      213: 7990921484174776478
+    second: StarCraft - Cursors_28
+  - first:
+      213: 863953602462181597
+    second: StarCraft - Cursors_29
+  - first:
+      213: -7967351661209180140
+    second: StarCraft - Cursors_30
+  - first:
+      213: -4209090013675654242
+    second: StarCraft - Cursors_31
+  - first:
+      213: -8060852950910284767
+    second: StarCraft - Cursors_32
+  - first:
+      213: 1135687890580550369
+    second: StarCraft - Cursors_33
+  - first:
+      213: -9200950777737952515
+    second: StarCraft - Cursors_34
+  - first:
+      213: -1015254078794585482
+    second: StarCraft - Cursors_35
+  - first:
+      213: 3238487090891254926
+    second: StarCraft - Cursors_36
+  - first:
+      213: 175749520606550140
+    second: StarCraft - Cursors_37
+  - first:
+      213: 7099111884357759395
+    second: StarCraft - Cursors_38
+  - first:
+      213: -1994733370788067095
+    second: StarCraft - Cursors_39
+  - first:
+      213: 5068185080786099502
+    second: StarCraft - Cursors_40
+  - first:
+      213: 4092059018293268155
+    second: StarCraft - Cursors_41
+  - first:
+      213: -6341111356206804776
+    second: StarCraft - Cursors_42
+  - first:
+      213: 8354230791612852937
+    second: StarCraft - Cursors_43
+  - first:
+      213: -3575134046218304754
+    second: StarCraft - Cursors_44
+  - first:
+      213: -2925254518019663253
+    second: StarCraft - Cursors_45
+  - first:
+      213: 4202524391952163966
+    second: StarCraft - Cursors_46
+  - first:
+      213: 3327814357853234089
+    second: StarCraft - Cursors_47
+  - first:
+      213: -3223268428928696062
+    second: StarCraft - Cursors_48
+  - first:
+      213: 3129170416740235658
+    second: StarCraft - Cursors_49
+  - first:
+      213: 3726581515756068037
+    second: StarCraft - Cursors_50
+  - first:
+      213: 6858300263580701457
+    second: StarCraft - Cursors_51
+  - first:
+      213: 2659287734295096983
+    second: StarCraft - Cursors_52
+  - first:
+      213: -3152914788622617491
+    second: StarCraft - Cursors_53
+  - first:
+      213: -4152497733245557089
+    second: StarCraft - Cursors_54
+  - first:
+      213: -3606652723846645511
+    second: StarCraft - Cursors_55
+  - first:
+      213: 1098501002889048898
+    second: StarCraft - Cursors_56
+  - first:
+      213: 4518000024794576668
+    second: StarCraft - Cursors_57
+  - first:
+      213: -1127223037647633493
+    second: StarCraft - Cursors_58
+  - first:
+      213: 6648642222596766744
+    second: StarCraft - Cursors_59
+  - first:
+      213: -2186626647117742941
+    second: StarCraft - Cursors_60
+  - first:
+      213: 7987291766306903465
+    second: StarCraft - Cursors_61
+  - first:
+      213: 7581417071409280159
+    second: StarCraft - Cursors_62
+  - first:
+      213: 7918922500177674864
+    second: StarCraft - Cursors_63
+  - first:
+      213: 941750227900572416
+    second: StarCraft - Cursors_64
+  - first:
+      213: -615174641537533991
+    second: StarCraft - Cursors_65
+  - first:
+      213: 4123539374908448136
+    second: StarCraft - Cursors_66
+  - first:
+      213: 3213547471004574207
+    second: StarCraft - Cursors_67
+  - first:
+      213: 5562526528218675619
+    second: StarCraft - Cursors_68
+  - first:
+      213: 6204802621931608862
+    second: StarCraft - Cursors_69
+  - first:
+      213: 4859714265468296903
+    second: StarCraft - Cursors_70
+  - first:
+      213: -2232034413032024045
+    second: StarCraft - Cursors_71
+  - first:
+      213: -3840543475210234296
+    second: StarCraft - Cursors_72
+  - first:
+      213: 4470735376029440576
+    second: StarCraft - Cursors_73
+  - first:
+      213: 4313426879119565896
+    second: StarCraft - Cursors_74
+  - first:
+      213: -7575824062666954352
+    second: StarCraft - Cursors_75
+  - first:
+      213: -2486895657399521925
+    second: StarCraft - Cursors_76
+  - first:
+      213: 2073991143336920125
+    second: StarCraft - Cursors_77
+  - first:
+      213: -5892307627506695162
+    second: StarCraft - Cursors_78
+  - first:
+      213: 2292640756670413985
+    second: StarCraft - Cursors_79
+  - first:
+      213: 8587377881169389571
+    second: StarCraft - Cursors_80
+  - first:
+      213: 7126856542402188187
+    second: StarCraft - Cursors_81
+  - first:
+      213: -4449790935451886387
+    second: StarCraft - Cursors_82
+  - first:
+      213: -7055354555555560046
+    second: StarCraft - Cursors_83
+  - first:
+      213: -4007432748562136254
+    second: StarCraft - Cursors_84
+  - first:
+      213: 1819019736523097602
+    second: StarCraft - Cursors_85
+  - first:
+      213: -528114739902298892
+    second: StarCraft - Cursors_86
+  - first:
+      213: 6103971952765742100
+    second: StarCraft - Cursors_87
+  - first:
+      213: 5731307919069498120
+    second: StarCraft - Cursors_88
+  - first:
+      213: -2859229711759153641
+    second: StarCraft - Cursors_89
+  - first:
+      213: -89797877883455063
+    second: StarCraft - Cursors_90
+  - first:
+      213: -6743407166683410406
+    second: StarCraft - Cursors_91
+  - first:
+      213: 6304004150096808699
+    second: StarCraft - Cursors_92
+  - first:
+      213: 4841165833169665035
+    second: StarCraft - Cursors_93
+  - first:
+      213: -8859384662501389095
+    second: StarCraft - Cursors_94
+  - first:
+      213: 7382885945824746533
+    second: StarCraft - Cursors_95
+  - first:
+      213: -1087019557104636991
+    second: StarCraft - Cursors_96
+  - first:
+      213: -6874932783020742769
+    second: StarCraft - Cursors_97
+  - first:
+      213: 6203183229409148991
+    second: StarCraft - Cursors_98
+  - first:
+      213: -7152581324511498698
+    second: StarCraft - Cursors_99
+  - first:
+      213: -3333381006051429911
+    second: StarCraft - Cursors_100
+  - first:
+      213: -1411842268703652211
+    second: StarCraft - Cursors_101
+  - first:
+      213: -367768513194424909
+    second: StarCraft - Cursors_102
+  - first:
+      213: -7327259456612123466
+    second: StarCraft - Cursors_103
+  - first:
+      213: 7658229245304290053
+    second: StarCraft - Cursors_104
+  - first:
+      213: -1842538360461462874
+    second: StarCraft - Cursors_105
+  - first:
+      213: -1259208191412745630
+    second: StarCraft - Cursors_106
+  - first:
+      213: 847058594213976320
+    second: StarCraft - Cursors_107
+  - first:
+      213: -4108669443173531962
+    second: StarCraft - Cursors_108
+  - first:
+      213: 6084838728441996199
+    second: StarCraft - Cursors_109
+  - first:
+      213: -5353789220105373018
+    second: StarCraft - Cursors_110
+  - first:
+      213: 2993850046183827154
+    second: StarCraft - Cursors_111
+  - first:
+      213: -5520053103301840675
+    second: StarCraft - Cursors_112
+  - first:
+      213: -5597960414588771971
+    second: StarCraft - Cursors_113
+  - first:
+      213: 5643356932429395664
+    second: StarCraft - Cursors_114
+  - first:
+      213: 1570876269688458210
+    second: StarCraft - Cursors_115
+  - first:
+      213: -1561467411499974469
+    second: StarCraft - Cursors_116
+  - first:
+      213: 1180934273963154202
+    second: StarCraft - Cursors_117
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StarCraft - Cursors_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30063ad2800823a10800000000000000
+      internalID: 1887711966435434499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4994b39f003bf710800000000000000
+      internalID: 1728027725487446349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e6c8d286198ed30800000000000000
+      internalID: 4460975307537280598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe591632a6f62490800000000000000
+      internalID: -7771252930428444931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bbf4e13e1714490800000000000000
+      internalID: -7763799062329967757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a153b7d47af72690800000000000000
+      internalID: -7626852064186642013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376733ab93f4e1ea0800000000000000
+      internalID: -5900191352453106061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c00e3f83266b710800000000000000
+      internalID: 1708661105382919268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab543ce85d55630800000000000000
+      internalID: 3915270260206713356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 277
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cabe050c64d6510800000000000000
+      internalID: 1543968039063235624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b351a01758789d440800000000000000
+      internalID: 4961145471722198331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 231
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618e6311d00237340800000000000000
+      internalID: 4860263663358371862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 231
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d295bd246f3c6840800000000000000
+      internalID: 5218615767711716050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 231
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c75c3a18d3f97ad0800000000000000
+      internalID: -2703861991780624441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 231
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec6fb7888ab6ca00800000000000000
+      internalID: 776513081323777248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 231
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf6730a50b825190800000000000000
+      internalID: -7975159133840642097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_16
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 231
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63670d660210c1010800000000000000
+      internalID: 1160804042630264374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6cebab46dd821f0800000000000000
+      internalID: -1069361486800959819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866d25496f1c33b90800000000000000
+      internalID: -7263248509223905688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcad6c09e82ea8d0800000000000000
+      internalID: -2833282134168458063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c478b126d0dd48340800000000000000
+      internalID: 4865256547017262924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8045877adae195c20800000000000000
+      internalID: 3195619141783933960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_22
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f4df59c9e2ec810800000000000000
+      internalID: 1787417352178847580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5734ef3e57102c220800000000000000
+      internalID: 2504565948619309941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1909af947d6393ff0800000000000000
+      internalID: -55953222078394223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_25
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0d3b5bd1cbbc540800000000000000
+      internalID: 5029320244677824728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_26
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c793680c2e6d130800000000000000
+      internalID: 3591307069388061712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dea7c80ac03f5d10800000000000000
+      internalID: 2116463994176253654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_28
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98564c80c475ee60800000000000000
+      internalID: 7990921484174776478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_29
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd86d2959316dfb00800000000000000
+      internalID: 863953602462181597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_30
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 185
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418220180e74e6190800000000000000
+      internalID: -7967351661209180140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93f73beeee4695c0800000000000000
+      internalID: -4209090013675654242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c455a03f8122090800000000000000
+      internalID: -8060852950910284767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_33
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e234cd8e16c2cf00800000000000000
+      internalID: 1135687890580550369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df243113408af4080800000000000000
+      internalID: -9200950777737952515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aaeac5bc719e1f0800000000000000
+      internalID: -1015254078794585482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_36
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ce246d9da61fc20800000000000000
+      internalID: 3238487090891254926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d2310243607200800000000000000
+      internalID: 175749520606550140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_38
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1f5e765ac158260800000000000000
+      internalID: 7099111884357759395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_39
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e84f8c51984154e0800000000000000
+      internalID: -1994733370788067095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_40
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d90348a7fc55640800000000000000
+      internalID: 5068185080786099502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_41
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbecd491ff9e9c830800000000000000
+      internalID: 4092059018293268155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_42
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0191471d8dff7a0800000000000000
+      internalID: -6341111356206804776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_43
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cae6b174a030f370800000000000000
+      internalID: 8354230791612852937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_44
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 139
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03c0ced682926ec0800000000000000
+      internalID: -3575134046218304754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ad4d7b3886767d0800000000000000
+      internalID: -2925254518019663253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7429362bad525a30800000000000000
+      internalID: 4202524391952163966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_47
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a36946e685ce2e20800000000000000
+      internalID: 3327814357853234089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_48
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20149f50176a443d0800000000000000
+      internalID: -3223268428928696062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_49
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89767b3aeb0d6b20800000000000000
+      internalID: 3129170416740235658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_50
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc5d21f42a77b330800000000000000
+      internalID: 3726581515756068037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_51
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11312bdb0c39d2f50800000000000000
+      internalID: 6858300263580701457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_52
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e6636da10b7e420800000000000000
+      internalID: 2659287734295096983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_53
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64b21164b89e34d0800000000000000
+      internalID: -3152914788622617491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_54
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96a84fff4d5f56c0800000000000000
+      internalID: -4152497733245557089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_55
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8fceed47892fdc0800000000000000
+      internalID: -3606652723846645511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_56
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243bc9e87d8ae3f00800000000000000
+      internalID: 1098501002889048898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_57
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17361dc51923be30800000000000000
+      internalID: 4518000024794576668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_58
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 93
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3406a9e9c4b50f0800000000000000
+      internalID: -1127223037647633493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c3b8c10e8b44c50800000000000000
+      internalID: 6648642222596766744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_60
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acb42256aa87a1e0800000000000000
+      internalID: -2186626647117742941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_61
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a510200b8f88de60800000000000000
+      internalID: 7987291766306903465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_62
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94be6b88aa963960800000000000000
+      internalID: 7581417071409280159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_63
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07240f2ce0aa5ed60800000000000000
+      internalID: 7918922500177674864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_64
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0032829b7d4c11d00800000000000000
+      internalID: 941750227900572416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_65
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7b3504ce57677f0800000000000000
+      internalID: -615174641537533991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_66
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d11cac631c93930800000000000000
+      internalID: 4123539374908448136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_67
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff125161660d89c20800000000000000
+      internalID: 3213547471004574207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_68
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a93928e760123d40800000000000000
+      internalID: 5562526528218675619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b55a53c13eb1650800000000000000
+      internalID: 6204802621931608862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_70
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ced227606c217340800000000000000
+      internalID: 4859714265468296903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_71
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31857c4f6883601e0800000000000000
+      internalID: -2232034413032024045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_72
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84656afae06a3bac0800000000000000
+      internalID: -3840543475210234296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_73
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ad105332e3b0e30800000000000000
+      internalID: 4470735376029440576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_74
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 47
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8442b8e94ee5cdb30800000000000000
+      internalID: 4313426879119565896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_75
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09921e747244dd690800000000000000
+      internalID: -7575824062666954352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_76
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d6d336395cc7dd0800000000000000
+      internalID: -2486895657399521925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_77
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 33
+        width: 96
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3447e5d4fb48cc10800000000000000
+      internalID: 2073991143336920125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_78
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604832b7e615a3ea0800000000000000
+      internalID: -5892307627506695162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_79
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 35
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac3cea0f9811df10800000000000000
+      internalID: 2292640756670413985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_80
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308e52f5fae7c2770800000000000000
+      internalID: 8587377881169389571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_81
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 35
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b931d0ff34ea7e260800000000000000
+      internalID: 7126856542402188187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_82
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 35
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc13af58ba2f32c0800000000000000
+      internalID: -4449790935451886387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_83
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 35
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2954daf9968561e90800000000000000
+      internalID: -7055354555555560046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_84
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243cfa0c52db268c0800000000000000
+      internalID: -4007432748562136254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20642e210d47e3910800000000000000
+      internalID: 1819019736523097602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_86
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 35
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c97f2172cba8f0800000000000000
+      internalID: -528114739902298892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_87
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 35
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cac8b962aa5b450800000000000000
+      internalID: 6103971952765742100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_88
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b4586cf22b98f40800000000000000
+      internalID: 5731307919069498120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_89
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 17
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7166a5bd9b9f158d0800000000000000
+      internalID: -2859229711759153641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_90
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a93c2b4e49f0cef0800000000000000
+      internalID: -89797877883455063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_91
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 17
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a101306f8ea9a62a0800000000000000
+      internalID: -6743407166683410406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_92
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 23
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfacb1ddf525c7750800000000000000
+      internalID: 6304004150096808699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_93
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 23
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf5d8fca64f2340800000000000000
+      internalID: 4841165833169665035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_94
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 23
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc8f07a6942d0580800000000000000
+      internalID: -8859384662501389095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_95
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 23
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c9b1ac6a7457660800000000000000
+      internalID: 7382885945824746533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_96
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 23
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb20ead8712ae0f0800000000000000
+      internalID: -1087019557104636991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_97
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 23
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f876c5d0f055790a0800000000000000
+      internalID: -6874932783020742769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_98
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 23
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30c7910842261650800000000000000
+      internalID: 6203183229409148991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_99
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 23
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e266d6e2decbc90800000000000000
+      internalID: -7152581324511498698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_100
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 23
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e13541d2a37db1d0800000000000000
+      internalID: -3333381006051429911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_101
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 23
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d868907dfe0286ce0800000000000000
+      internalID: -1411842268703652211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_102
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 23
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5097b5c7c65eaf0800000000000000
+      internalID: -367768513194424909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_103
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 21
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc338f7858505a90800000000000000
+      internalID: -7327259456612123466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_104
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 23
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bbede6cee774a60800000000000000
+      internalID: 7658229245304290053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_105
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 23
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2f9a39f1dfd66e0800000000000000
+      internalID: -1842538360461462874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_106
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 23
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ac49c42d4668ee0800000000000000
+      internalID: -1259208191412745630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_107
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 21
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009d014bd4b51cb00800000000000000
+      internalID: 847058594213976320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_108
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceb32cf8e21bf6c0800000000000000
+      internalID: -4108669443173531962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_109
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3235ca590b17450800000000000000
+      internalID: 6084838728441996199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_110
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aabd45e11583b5b0800000000000000
+      internalID: -5353789220105373018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_111
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6e29141ca4c8920800000000000000
+      internalID: 2993850046183827154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_112
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 11
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0b664f2f4d463b0800000000000000
+      internalID: -5520053103301840675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_113
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 9
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71ecb589ac0052b0800000000000000
+      internalID: -5597960414588771971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_114
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d63132fa3b315e40800000000000000
+      internalID: 5643356932429395664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_115
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb0fd8f4afdcc510800000000000000
+      internalID: 1570876269688458210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_116
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 9
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0023989ad845ae0800000000000000
+      internalID: -1561467411499974469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarCraft - Cursors_117
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b58ae1775836010800000000000000
+      internalID: 1180934273963154202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c9bba7ad88c2f484593f062b9f96410b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
