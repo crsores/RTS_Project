@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3473162329524241053}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: spawnMakrer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41,7 +41,7 @@ GameObject:
   - component: {fileID: 4195145406455122292}
   - component: {fileID: 4195145406455122293}
   - component: {fileID: 4195145406455122186}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -123,7 +123,7 @@ GameObject:
   - component: {fileID: 5180436924048346013}
   - component: {fileID: 2400763578542522396}
   - component: {fileID: 8155160937477425827}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Engineer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -217,7 +217,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6784511801800668631}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: spawnMakrer (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -379,6 +379,18 @@ PrefabInstance:
       propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4923621884956650715, guid: 10b994a2cbcf9e549989d8fa347f3898, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -3215555783603854218, guid: 10b994a2cbcf9e549989d8fa347f3898, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -1600542680823235302, guid: 10b994a2cbcf9e549989d8fa347f3898, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 895425838269697267, guid: 10b994a2cbcf9e549989d8fa347f3898, type: 3}
       propertyPath: m_CastShadows
       value: 0
@@ -387,9 +399,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: Engineer
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 10b994a2cbcf9e549989d8fa347f3898, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1835210009659533079, guid: 10b994a2cbcf9e549989d8fa347f3898, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 4075823952612669440, guid: 10b994a2cbcf9e549989d8fa347f3898, type: 3}
       propertyPath: m_CastShadows
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4424396828587804706, guid: 10b994a2cbcf9e549989d8fa347f3898, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5914173764048766335, guid: 10b994a2cbcf9e549989d8fa347f3898, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6829333093618665122, guid: 10b994a2cbcf9e549989d8fa347f3898, type: 3}
       propertyPath: m_CastShadows
@@ -402,6 +430,10 @@ PrefabInstance:
     - target: {fileID: 8730303016566787287, guid: 10b994a2cbcf9e549989d8fa347f3898, type: 3}
       propertyPath: m_CastShadows
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9141816029861474070, guid: 10b994a2cbcf9e549989d8fa347f3898, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 10b994a2cbcf9e549989d8fa347f3898, type: 3}
@@ -420,6 +452,18 @@ PrefabInstance:
     - target: {fileID: 1168683551720062512, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_PresetInfoIsWorld
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1886613106885978279, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3117631714811628256, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_RootOrder

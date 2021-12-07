@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 883016392447667092}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: spawnMakrer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -124,7 +124,7 @@ GameObject:
   - component: {fileID: 650354330672309019}
   - component: {fileID: 3260024124937041480}
   - component: {fileID: 2191717430170102665}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Amory
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -218,7 +218,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7166140238784228659}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: spawnMakrer (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -250,7 +250,7 @@ GameObject:
   - component: {fileID: 2420304543336799738}
   - component: {fileID: 7001680808833080312}
   - component: {fileID: 8437799650002563079}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -375,13 +375,29 @@ PrefabInstance:
       propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6943276415157153233, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: -6673802680727711063, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
       propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6430913737076792145, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: -6262871020506297181, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
       propertyPath: m_CastShadows
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3641000652193603279, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -3137722172632951806, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: -2919867295161467553, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
       propertyPath: m_CastShadows
@@ -399,9 +415,29 @@ PrefabInstance:
       propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -1606057615522382512, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
       propertyPath: m_Name
       value: Armory
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1235325404441655284, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1487234071760608363, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1619035203956873500, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 2048222043954860304, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
       propertyPath: m_CastShadows
@@ -410,6 +446,18 @@ PrefabInstance:
     - target: {fileID: 2927593092117553206, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
       propertyPath: m_CastShadows
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5934129722972032481, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7052025465689282730, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7103153012782714218, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 7474017945804426429, guid: f37fa20e84ce0964e8ee6e4e63f568bd, type: 3}
       propertyPath: m_CastShadows
@@ -437,6 +485,14 @@ PrefabInstance:
       propertyPath: m_PresetInfoIsWorld
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1886613106885978279, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3117631714811628256, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 3390316395962340208, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_SizeDelta.y
       value: 0.1335
@@ -444,6 +500,10 @@ PrefabInstance:
     - target: {fileID: 3390316395962340208, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0.06679998
+      objectReference: {fileID: 0}
+    - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_RootOrder

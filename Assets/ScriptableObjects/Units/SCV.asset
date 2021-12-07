@@ -15,7 +15,7 @@ MonoBehaviour:
   type: 0
   name: SCV
   unitPrefab: {fileID: 8220526249651674627, guid: d4781383b1f55254a93c548854ad8415, type: 3}
-  icon: {fileID: 5392786933212251445, guid: d6a00cec837448144994fd7226e67947, type: 3}
+  icon: {fileID: 5392786933212251445, guid: 25a720e1eef485948963b1b6e7a190d9, type: 3}
   spawnTime: 20
   baseStats:
     mineral: 50

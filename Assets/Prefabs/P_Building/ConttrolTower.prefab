@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1329159187078803959}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: spawnMakrer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41,7 +41,7 @@ GameObject:
   - component: {fileID: 5023502021814183514}
   - component: {fileID: 5023502021814183515}
   - component: {fileID: 5023502021814183512}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -120,7 +120,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7133640045214780082}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: spawnMakrer (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -233,7 +233,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5935594290560510791}
   - component: {fileID: 1672411601742195969}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ConttrolTower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -283,6 +283,18 @@ PrefabInstance:
     - target: {fileID: 1168683551720062512, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_PresetInfoIsWorld
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1886613106885978279, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3117631714811628256, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_RootOrder
@@ -374,9 +386,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8455728280606582528, guid: 8aa57ab502b2a8549b0aabb90dfac555, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -7903446699877297963, guid: 8aa57ab502b2a8549b0aabb90dfac555, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -7395704305543789238, guid: 8aa57ab502b2a8549b0aabb90dfac555, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: -7336381098201970849, guid: 8aa57ab502b2a8549b0aabb90dfac555, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 8aa57ab502b2a8549b0aabb90dfac555, type: 3}
       propertyPath: m_Name
       value: ControlTower
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8aa57ab502b2a8549b0aabb90dfac555, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7045030354117346258, guid: 8aa57ab502b2a8549b0aabb90dfac555, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7960158976996931061, guid: 8aa57ab502b2a8549b0aabb90dfac555, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7975042476016782316, guid: 8aa57ab502b2a8549b0aabb90dfac555, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8aa57ab502b2a8549b0aabb90dfac555, type: 3}

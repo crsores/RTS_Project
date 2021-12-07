@@ -15,7 +15,7 @@ MonoBehaviour:
   type: 11
   name: BattleCruiser
   unitPrefab: {fileID: 6910503808497777159, guid: d1056122f04a5f04bb9a626a002e5449, type: 3}
-  icon: {fileID: 3183055419704855484, guid: c881a668da9f0e7449a58e15fda2c937, type: 3}
+  icon: {fileID: 5392786933212251445, guid: 6731cc31ed1c68943939804b91a8f37f, type: 3}
   spawnTime: 133
   baseStats:
     mineral: 400
