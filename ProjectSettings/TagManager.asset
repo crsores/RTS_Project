@@ -8,13 +8,13 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Object_PoInt
   - Water
   - UI
-  - playerUnit
-  - playerBuilding
-  - enemyUnit
-  - 
+  - Player_Unit
+  - Player_Building
+  - Enemy_Unit
+  - Enemy_Building
   - 
   - 
   - 

@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1847614042043762793}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.6, y: 3.7013426, z: 0.9366574}
+  m_LocalPosition: {x: -5.6, y: 3.7013426, z: -0.48}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2174871741842173619}
@@ -125,8 +125,8 @@ GameObject:
   - component: {fileID: 1847614043043567569}
   - component: {fileID: 1847614043043567582}
   - component: {fileID: 1847614043043567583}
-  m_Layer: 6
-  m_Name: Sphere (1)
+  m_Layer: 3
+  m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -205,13 +205,13 @@ GameObject:
   m_Component:
   - component: {fileID: 1801285473786239428}
   - component: {fileID: 5090003031251772477}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Highlight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1801285473786239428
 Transform:
   m_ObjectHideFlags: 0

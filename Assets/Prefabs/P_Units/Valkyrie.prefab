@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 682529042253960551}
   - component: {fileID: 5291272162219324090}
   - component: {fileID: 715388847364188778}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91,7 +91,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4282805273543708943}
   - component: {fileID: 2863038252040954656}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Highlight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -350,7 +350,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6793d1ef95e20f64b91eb78a2564f3ce, type: 3}
       propertyPath: m_Name
-      value: Valkyrie (1)
+      value: Valkyrie
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6793d1ef95e20f64b91eb78a2564f3ce, type: 3}
       propertyPath: m_Layer
