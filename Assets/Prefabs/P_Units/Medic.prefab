@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2056752504967017649}
   - component: {fileID: 3110231443074366329}
   - component: {fileID: 689402909794774132}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91,7 +91,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7785628826439368437}
   - component: {fileID: 1952680480658683940}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Highlight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -190,7 +190,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5038562504532636923}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -16.380943, y: 9.692659, z: -5.59}
+  m_LocalPosition: {x: -16.380943, y: 9.692659, z: -5.047}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2056752504967017649}
