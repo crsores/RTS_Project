@@ -88,6 +88,9 @@ namespace Units.Player
         // Update is called once per frame
         void Update()
         {
+            if (atkCooldown>=-1)
+            atkCooldown -= Time.deltaTime;
+
             MoveUnit();
 
             checkForEnemyTargets();

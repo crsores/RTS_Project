@@ -42,6 +42,8 @@ namespace Units.Enemy
 
         private void Update()
         {
+
+            if (atkCooldown>=-1)
             atkCooldown -= Time.deltaTime;
             
             if (!hasAggero)

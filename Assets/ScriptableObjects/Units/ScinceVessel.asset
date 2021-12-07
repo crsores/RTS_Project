@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 10
   name: ScineVessel
-  unitPrefab: {fileID: 1674342843864826967, guid: 4f673daa4b37aa443b06807b154612a0, type: 3}
+  unitPrefab: {fileID: 1677395380383858251, guid: 4f673daa4b37aa443b06807b154612a0, type: 3}
   icon: {fileID: 991091490945115166, guid: 2b72ae5cb7b11f8439c25efe20629a04, type: 3}
   spawnTime: 80
   baseStats:

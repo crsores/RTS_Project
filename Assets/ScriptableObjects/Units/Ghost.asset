@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 4
   name: Ghost
-  unitPrefab: {fileID: 378031474707473087, guid: e58b2fa952495ef4c87db46618da70cb, type: 3}
+  unitPrefab: {fileID: 1280505169322474111, guid: e58b2fa952495ef4c87db46618da70cb, type: 3}
   icon: {fileID: 5178673557835439779, guid: 6ad79f9171707a846a50772f82bf331e, type: 3}
   spawnTime: 50
   baseStats:

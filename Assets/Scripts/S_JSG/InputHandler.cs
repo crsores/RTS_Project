@@ -88,11 +88,11 @@ namespace InputManager
 
                 foreach (Transform child in RTS.Player.playerManager.instance.playerUnits)
                 {
-                    foreach (Transform unit in child)
+                   // foreach (Transform unit in child)
                     {
-                        if (iswithinSelectionBounds(unit))//범위안에 유닛이 있을경우
+                        if (iswithinSelectionBounds(child))//범위안에 유닛이 있을경우
                         {
-                            addeUnit(unit, true);
+                            addeUnit(child, true); ;
                         }
                     }
                 }

@@ -9,7 +9,7 @@ namespace Interactables
     {
 
         public static IBuilding instance = null;
-
+        public Transform playerUnits;
 
         public UI.HUD.PlayerAction actions;
         public GameObject spawnMakrer = null; //유닛이 생산되는 위치 
@@ -122,7 +122,7 @@ namespace Interactables
                 spawnMakrer.transform.position.y, spawnMakrer.transform.position.z), Quaternion.identity);
             Units.Player.PlayerUnit pu = spawnedObject.GetComponent<Units.Player.PlayerUnit>();
             //pu.transform.SetParent(GameObject.Find("P_" + pu.unitType.type.ToString() + "s").transform);
-
+            pu.transform.SetParent(RTS.Player.playerManager.instance.playerUnits);
 
             spawnedObject.GetComponent<Units.Player.PlayerUnit>().SetDestinatin(spawnMakrer2.transform.position);
             // SpawnQueue.Remove(SpawnQueue[0]);

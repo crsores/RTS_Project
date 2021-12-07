@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 1
   name: Marine
-  unitPrefab: {fileID: 3745743159616624229, guid: 55f04d279b97dae488b41798322b8899, type: 3}
+  unitPrefab: {fileID: 8169421154002746908, guid: 55f04d279b97dae488b41798322b8899, type: 3}
   icon: {fileID: 5392786933212251445, guid: a8466a748999087489cb7fee866c804b, type: 3}
   spawnTime: 2.4
   baseStats:

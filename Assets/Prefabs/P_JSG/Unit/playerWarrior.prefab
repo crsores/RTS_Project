@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3675045522093261868}
   - component: {fileID: 4802951223677429116}
   - component: {fileID: -607684671664082298}
-  m_Layer: 8
+  m_Layer: 6
   m_Name: playerWarrior
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -138,19 +138,19 @@ MonoBehaviour:
     mechanic: 0
     ground: 0
     air: 0
+    floating: 0
     ground_type: 0
     air_type: 0
     unit_size: 0
-    B_atkUpCount: 0
-    B_armorUpCount: 0
-    M_GroundatkUpCount: 0
-    M_GroundarmorUpCount: 0
-    M_AiratkUpCount: 0
-    M_AirarmorUpCount: 0
   rangeColliders: []
   aggerTarget: {fileID: 0}
   distance: 0
+  attack: 0
+  airattack: 0
+  atkspeed: 0
   speed: 0
+  armor: 0
+  eyesight: 0
 --- !u!54 &3675045522093261868
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -204,7 +204,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2377137178129939050}
   - component: {fileID: 362804546647845764}
-  m_Layer: 8
+  m_Layer: 6
   m_Name: Highlight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -287,9 +287,21 @@ PrefabInstance:
       propertyPath: m_PresetInfoIsWorld
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1886613106885978279, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3117631714811628256, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_Name
       value: UnitStatDisPlay
+      objectReference: {fileID: 0}
+    - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_Pivot.x

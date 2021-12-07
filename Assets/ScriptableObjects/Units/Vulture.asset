@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 5
   name: Vulture
-  unitPrefab: {fileID: 4997115473153029019, guid: 71213ec325ea0d3478386c5218faf78e, type: 3}
+  unitPrefab: {fileID: 7326936823523692209, guid: 71213ec325ea0d3478386c5218faf78e, type: 3}
   icon: {fileID: 5392786933212251445, guid: d7b9ccd43136a3c4ba561eb052bd926a, type: 3}
   spawnTime: 3
   baseStats:

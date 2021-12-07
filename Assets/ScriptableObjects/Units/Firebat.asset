@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 2
   name: Firebat
-  unitPrefab: {fileID: 8628665330833154026, guid: e8080ff60d7f44b4faefa4901ac1c0e6, type: 3}
+  unitPrefab: {fileID: 1847614042043762793, guid: e8080ff60d7f44b4faefa4901ac1c0e6, type: 3}
   icon: {fileID: 5392786933212251445, guid: e9a1dc64b970cab4195e6934e4f7efba, type: 3}
   spawnTime: 24
   baseStats:
