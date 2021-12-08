@@ -15,7 +15,7 @@ MonoBehaviour:
   type: 9
   name: Dropship
   unitPrefab: {fileID: 6078557143472173549, guid: bf6af2bea5ed00b4f8dbb51a728d8ed2, type: 3}
-  icon: {fileID: 2714276519963429002, guid: ca1e574c6685afb418d36fbf4b18e85d, type: 3}
+  icon: {fileID: 5392786933212251445, guid: 4bac93095a8189a4eb8003d123b76f04, type: 3}
   spawnTime: 50
   baseStats:
     mineral: 100
