@@ -175,6 +175,7 @@ GameObject:
   - component: {fileID: 2523826044379313660}
   - component: {fileID: 2031674795051252794}
   - component: {fileID: 3925519225401810084}
+  - component: {fileID: 2622965232677287759}
   m_Layer: 6
   m_Name: Vulture
   m_TagString: Untagged
@@ -277,6 +278,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isInteracting: 0
   highlight: {fileID: 5359562742045098306}
+--- !u!114 &2622965232677287759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7326936823523692209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e80ddc7d32cc049b8cf12e93f0b0e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vulture: {fileID: 7326936823523692209}
+  mine: {fileID: 8381589785461749057, guid: cac232347455788458a9b9af495b88bb, type: 3}
 --- !u!1001 &1512457038392372572
 PrefabInstance:
   m_ObjectHideFlags: 0

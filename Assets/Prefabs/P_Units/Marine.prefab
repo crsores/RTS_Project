@@ -175,6 +175,7 @@ GameObject:
   - component: {fileID: 3573149360652315288}
   - component: {fileID: 4110999958753200930}
   - component: {fileID: 2093127534365339080}
+  - component: {fileID: 3859547289707755360}
   m_Layer: 6
   m_Name: Marine
   m_TagString: Untagged
@@ -249,6 +250,9 @@ MonoBehaviour:
   atkspeed: 0
   speed: 0
   armor: 0
+  atkRange: 0
+  atkUpPlus: 0
+  DropCount: 0
   eyesight: 0
 --- !u!114 &4110999958753200930
 MonoBehaviour:
@@ -277,6 +281,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.1294701, y: 1.2087078, z: 1.3601944}
   m_Center: {x: -0.020360589, y: 0.68164635, z: 0.122491}
+--- !u!114 &3859547289707755360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8169421154002746908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 204a9979acb46334584a9654d73fa2ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  marine: {fileID: 8169421154002746908}
 --- !u!1001 &4932001803044369549
 PrefabInstance:
   m_ObjectHideFlags: 0

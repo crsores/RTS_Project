@@ -52,6 +52,7 @@ namespace InputManager
                 if (EventSystem.current.IsPointerOverGameObject())
                 {
                     return;
+
                 }
                 mousePos = Input.mousePosition;
                 Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
@@ -108,7 +109,13 @@ namespace InputManager
 
                     switch (layerHit.value)
                     {
-                        case 8: //Units Layer
+                        case 6: //Units Layer
+
+                           for (int i = 0; selectedUnits[i]; i++)
+                            {
+                                //selectedUnits[i].GetComponent<>().baseStats.    
+
+                            }
 
                             break;
                         case 9: //enemy untis layer
@@ -130,6 +137,13 @@ namespace InputManager
             else if (Input.GetMouseButtonDown(1)&&selectedBuilding != null)
             {
                 selectedBuilding.gameObject.GetComponent<Interactables.IBuilding>().SetSpawnMarkerLocation();//마우스 클릭한곳 스폰 위치 지정
+            }
+            else if (Input.GetMouseButtonDown(1) && selectedUnits.Count > 0)
+            {
+
+
+
+
             }
         }
         //private void SelectUnit(Transform unit, bool canMultiselect = false) //유닛 선택

@@ -36,5 +36,15 @@ namespace Units.Player
             
 
         }
+
+        public void yamato()
+        {
+
+
+
+        }
+
+
+
     }
 }

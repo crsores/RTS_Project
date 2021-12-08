@@ -10,7 +10,7 @@ namespace UI.HUD
         public static ActionFrame instance = null;
 
        // [SerializeField] private Button actionButton = null;
-        [SerializeField] private Transform layoutGroup = null;
+        public Transform layoutGroup = null;
 
         //private List<Button> buttons = new List<Button>();
        public List<GameObject> buttons = new List<GameObject>();
@@ -41,7 +41,7 @@ namespace UI.HUD
             {
                 foreach(Units.BasicUnit unit in actions.basicUnits)
                 {
-                    
+                    Debug.Log("¤Ñ¤Ñ");   
                     //Button btn = Instantiate(actionButton, layoutGroup);
                     //btn.name = unit.name; 
                     GameObject icon = Instantiate(unit.icon, layoutGroup);

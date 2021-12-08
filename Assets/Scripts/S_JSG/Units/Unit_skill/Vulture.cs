@@ -9,6 +9,9 @@ namespace Units.Player
     public class Vulture : MonoBehaviour
     {
         public GameObject vulture;
+
+        public GameObject mine;
+
         void Start()
         {
             if (playerManager.instance.VulturespeedCheck == false)
@@ -39,6 +42,16 @@ namespace Units.Player
 
 
         }
+
+        public void UseSpiderMines( )
+        {
+
+            Instantiate(mine, transform.position,Quaternion.identity);
+
+        }
+
+
+
     }
 }
 

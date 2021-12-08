@@ -91,7 +91,7 @@ MonoBehaviour:
   isInteracting: 0
   highlight: {fileID: 1688683550659935371}
   playerUnits: {fileID: 0}
-  actions: {fileID: 0}
+  actions: {fileID: 11400000, guid: 6269e81b530539a4da10075f0722cbf2, type: 2}
   spawnMakrer: {fileID: 4315418771288920493}
   spawnMakrer2: {fileID: 1702593729676923459}
   SpawnQueue: []

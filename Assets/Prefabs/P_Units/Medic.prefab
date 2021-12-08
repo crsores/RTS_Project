@@ -175,6 +175,7 @@ GameObject:
   - component: {fileID: 8101779757460361207}
   - component: {fileID: 874138171878451474}
   - component: {fileID: 5527274288001025205}
+  - component: {fileID: 6251826404696242172}
   m_Layer: 6
   m_Name: Medic
   m_TagString: Untagged
@@ -277,6 +278,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isInteracting: 0
   highlight: {fileID: 3385506847282517813}
+--- !u!114 &6251826404696242172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5038562504532636923}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6ad423bca9e9f64bbee8412fa5e7127, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  medic: {fileID: 0}
 --- !u!1001 &6430486159027970588
 PrefabInstance:
   m_ObjectHideFlags: 0

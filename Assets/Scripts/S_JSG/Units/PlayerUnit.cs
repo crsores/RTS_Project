@@ -52,6 +52,10 @@ namespace Units.Player
         public float atkspeed;
         public float speed;
         public float armor;
+        public float atkRange;
+        public float atkUpPlus;
+
+        public int DropCount;
        
         public float eyesight;
 
@@ -69,11 +73,16 @@ namespace Units.Player
         void Start()
         {
             baseStats = unitType.baseStats;
+
+
             attack = baseStats.attack;
             airattack = baseStats.airattack;
             atkspeed = baseStats.atkspeed;
             speed = baseStats.speed;
             armor = baseStats.armor;
+            atkRange = baseStats.atkRange;
+            atkUpPlus = baseStats.attackplus;
+            DropCount = baseStats.DrodCount;
             
             eyesight = baseStats.eyesight;
 

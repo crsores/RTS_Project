@@ -175,6 +175,7 @@ GameObject:
   - component: {fileID: 5623218468721381321}
   - component: {fileID: 1251322892256012189}
   - component: {fileID: 6626249595510300956}
+  - component: {fileID: -3323205662815369815}
   m_Layer: 6
   m_Name: BattleCruiser
   m_TagString: Untagged
@@ -277,6 +278,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 4.9120054, y: 1.8782053, z: 5.1211767}
   m_Center: {x: 0.07299566, y: 5.1747146, z: 0.6913214}
+--- !u!114 &-3323205662815369815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6910503808497777159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4929cb4a07878c9469c9e424f473e31f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  battlecruiser: {fileID: 0}
 --- !u!1001 &2677436304713232649
 PrefabInstance:
   m_ObjectHideFlags: 0

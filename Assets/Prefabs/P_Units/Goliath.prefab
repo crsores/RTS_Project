@@ -93,6 +93,7 @@ GameObject:
   - component: {fileID: 1449263879139984955}
   - component: {fileID: 4510243212150461695}
   - component: {fileID: 2158098834547474551}
+  - component: {fileID: -279261394464283304}
   m_Layer: 6
   m_Name: Goliath
   m_TagString: Untagged
@@ -195,6 +196,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isInteracting: 0
   highlight: {fileID: 6203571249910104482}
+--- !u!114 &-279261394464283304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4696632020096570095}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aeaf493d1c7d664b92683d696b2c5b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  goliath: {fileID: 0}
 --- !u!1 &6203571249910104482
 GameObject:
   m_ObjectHideFlags: 0
