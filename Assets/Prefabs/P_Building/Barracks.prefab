@@ -8,12 +8,6 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
-  - component: {fileID: 1399713391260719313}
-  - component: {fileID: 5016784697269026160}
-  - component: {fileID: 6265392723676224035}
-  m_Layer: 7
-=======
   - component: {fileID: 3623711996923808729}
   m_Layer: 5
   m_Name: spawnMakrer (1)
@@ -48,7 +42,6 @@ GameObject:
   - component: {fileID: 8296304975329268523}
   - component: {fileID: 6939610579263992952}
   m_Layer: 3
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -126,16 +119,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
-  - component: {fileID: 357847800918861186}
-  m_Layer: 7
-  m_Name: spawnMakrer (1)
-=======
   - component: {fileID: 8509702153123753653}
   - component: {fileID: 8685399439176104432}
   m_Layer: 5
   m_Name: Highlight
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -152,35 +139,11 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 36.12718, y: 31.749529, z: 5}
   m_Children: []
-<<<<<<< HEAD
-  m_Father: {fileID: 8271450957552347659}
-  m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &5142164773334750952
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1343236465629904450}
-  m_Layer: 7
-  m_Name: spawnMakrer
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1343236465629904450
-Transform:
-=======
   m_Father: {fileID: 4933498379270587472}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!212 &8685399439176104432
 SpriteRenderer:
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -238,17 +201,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
-  - component: {fileID: 8271450957552347659}
-  - component: {fileID: 907157783648761861}
-  - component: {fileID: 5879670465850126266}
-  - component: {fileID: 1470796093614319750}
-=======
   - component: {fileID: 4933498379270587472}
   - component: {fileID: 4191594802544252510}
   - component: {fileID: 7432521936472719841}
   - component: {fileID: 2509638796458493661}
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_Layer: 7
   m_Name: Barracks
   m_TagString: Untagged
@@ -633,71 +589,5 @@ PrefabInstance:
 --- !u!4 &8406748931610708089 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 61aa9f5ef802bcd418075c8b7bd59d39, type: 3}
-<<<<<<< HEAD
-  m_PrefabInstance: {fileID: 5016212361408348617}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &8040013539859733506
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 8271450957552347659}
-    m_Modifications:
-    - target: {fileID: 1168683551720062512, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_PresetInfoIsWorld
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1886613106885978279, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_Layer
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 3117631714811628256, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_Layer
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_Layer
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 0.3837
-      objectReference: {fileID: 0}
-    - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -4.18
-      objectReference: {fileID: 0}
-    - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 2.44
-      objectReference: {fileID: 0}
-    - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 1.57
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
---- !u!224 &265715078418103857 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-  m_PrefabInstance: {fileID: 8040013539859733506}
-=======
   m_PrefabInstance: {fileID: 8295767822482567058}
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_PrefabAsset: {fileID: 0}

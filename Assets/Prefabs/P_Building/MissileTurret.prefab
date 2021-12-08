@@ -9,11 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7059850766818153818}
-<<<<<<< HEAD
-  m_Layer: 7
-=======
   m_Layer: 5
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_Name: spawnMakrer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -222,11 +218,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3484664634069883537}
-<<<<<<< HEAD
-  m_Layer: 7
-=======
   m_Layer: 5
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_Name: spawnMakrer (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -258,11 +250,7 @@ GameObject:
   - component: {fileID: 8486466857544322777}
   - component: {fileID: 8486466857544322776}
   - component: {fileID: 8486466857544322779}
-<<<<<<< HEAD
-  m_Layer: 7
-=======
   m_Layer: 3
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -423,17 +411,6 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1886613106885978279, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_Layer
-<<<<<<< HEAD
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 3117631714811628256, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_Layer
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_Layer
-      value: 7
-=======
       value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 3117631714811628256, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
@@ -443,7 +420,6 @@ PrefabInstance:
     - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_Layer
       value: 5
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
       objectReference: {fileID: 0}
     - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_RootOrder

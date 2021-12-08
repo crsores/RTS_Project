@@ -8,17 +8,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
-  - component: {fileID: 7632742450376744997}
-  - component: {fileID: 4818052636337422115}
-  - component: {fileID: 8390963432628844395}
-  m_Layer: 7
-=======
   - component: {fileID: 7063300030036445999}
   - component: {fileID: 5274905375233184809}
   - component: {fileID: 9195123303142284385}
   m_Layer: 0
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_Name: Cube.044
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -97,12 +90,6 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
-  - component: {fileID: 4425752721290078172}
-  - component: {fileID: 3804595888419157967}
-  - component: {fileID: 7879863744747517027}
-  m_Layer: 7
-=======
   - component: {fileID: 4688306486972391824}
   m_Layer: 0
   m_Name: spawnMakrer
@@ -137,7 +124,6 @@ GameObject:
   - component: {fileID: 4550237510276914373}
   - component: {fileID: 7400528501342969705}
   m_Layer: 0
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_Name: Sphere.014
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -217,43 +203,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
-  - component: {fileID: 5402391888889252506}
-  m_Layer: 7
-  m_Name: spawnMakrer
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &5402391888889252506
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 553295920311757574}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.43, y: 0, z: 1.64}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 6514587600434255450}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &2582913346221274791
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 3329974133613335235}
-  m_Layer: 7
-=======
   - component: {fileID: 2729008687004203465}
   m_Layer: 0
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_Name: Bunker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -285,19 +236,11 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
-  - component: {fileID: 6514587600434255450}
-  - component: {fileID: 1669655487036957853}
-  - component: {fileID: -3411140565167821918}
-  - component: {fileID: -6499159511710786328}
-  m_Layer: 7
-=======
   - component: {fileID: 5873087324079291728}
   - component: {fileID: 2072462820641509271}
   - component: {fileID: 6575293523844333736}
   - component: {fileID: 3325710405966542818}
   m_Layer: 0
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_Name: Bunker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -390,47 +333,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
-  - component: {fileID: 6206122214686322503}
-  m_Layer: 7
-  m_Name: spawnMakrer (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &6206122214686322503
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4645345034911706472}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.43, y: 0, z: 1.64}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 6514587600434255450}
-  m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &5628960215197959225
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 6970235440751503975}
-  - component: {fileID: 2945275158348410504}
-  - component: {fileID: 7035730068032038585}
-  m_Layer: 7
-=======
   - component: {fileID: 7733334846222680429}
   - component: {fileID: 2537403469908116866}
   - component: {fileID: 7659211320197221811}
   m_Layer: 0
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_Name: Cylinder.058
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -619,18 +525,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
-  - component: {fileID: 7595135822368763637}
-  - component: {fileID: 7595135822368763636}
-  - component: {fileID: 7595135822368763639}
-  m_Layer: 7
-  m_Name: Cube
-=======
   - component: {fileID: 3219116416601700901}
   - component: {fileID: 2606914278009382261}
   m_Layer: 7
   m_Name: Highlight
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -712,19 +610,6 @@ PrefabInstance:
       propertyPath: m_PresetInfoIsWorld
       value: 1
       objectReference: {fileID: 0}
-<<<<<<< HEAD
-    - target: {fileID: 1886613106885978279, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_Layer
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 3117631714811628256, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_Layer
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
-      propertyPath: m_Layer
-      value: 7
-=======
     - target: {fileID: 4926230045549689937, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_Name
       value: UnitStatDisPlay
@@ -736,7 +621,6 @@ PrefabInstance:
     - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
->>>>>>> 18c7d3cd4ba5ff31c92a8136ef6fd23052168769
       objectReference: {fileID: 0}
     - target: {fileID: 7792317812184769075, guid: 4112df0717e1b1040bc4600f7025c7f8, type: 3}
       propertyPath: m_RootOrder
