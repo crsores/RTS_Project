@@ -6,25 +6,39 @@ public class Node
 {
     public bool walkable;
 
-    public Transform pos;
-
     public int gridX;
     public int gridY;
+
+    public float YDepthLB;
+    public float YDepthLU;
+    public float YDepthRB;
+    public float YDepthRU;
+
+
 
     public bool start;
     public bool end;
 
-    public int gCost;
-    public int hCost;
+    public int gCost; //시작 노드부터 현재 노드까지의 가중치의 합
+    public int hCost;   // 현재 노드부터 도착 노드까지의 예상 가중치의 합
 
     public Node parent;
 
-    public Node(bool _walkable, int _gridX, int _gridY, Transform pos_)
+    public Node(bool _walkable, int _gridX, int _gridY, float YPosLB_, float YPosLU_, float YPosRB_, float YPosRU_)
     {
+
+
         walkable = _walkable;
+
         gridX = _gridX;
         gridY = _gridY;
-        pos = pos_;
+
+        YDepthLB = YPosLB_;
+        YDepthRB = YPosRB_;
+        YDepthLU = YPosLU_;
+        YDepthRU = YPosRB_;
+
+
     }
 
     public int GetX
@@ -43,16 +57,16 @@ public class Node
         }
     }
 
-    public Vector3 GetPos(float Y,float cellcise)
+    public Vector3 GetPos(float Y, float cellcise)
     {
 
         float X = gridX * cellcise;
         float Z = gridY * cellcise;
-            return new Vector3(gridX, Y, gridY);
-        
+
+        return new Vector3(X, Y, Z);
     }
 
- 
+
 
 
     public int fCost
@@ -76,6 +90,6 @@ public class Node
 
 
 
-  
+
 
 }
