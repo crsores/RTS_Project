@@ -13,8 +13,22 @@ public class Preview : MonoBehaviour
     [SerializeField] private Material green;    // 충돌이 없을 때 보여줄 초록색 프리뷰
     [SerializeField] private Material red;  // 충돌 물체가 있을 때 보여줄 빨간색 프리뷰
 
+    private float LB;
+    private float LU;
+    private float RB;
+    private float RU;
+
+    private float sizeX = 0;
+    private float sizeZ = 0;
+
+    private float cellsize = 00;
+
     void Start()
     {
+        sizeX = this.transform.localScale.x;
+        sizeZ = this.transform.localScale.z;
+
+        cellsize = Grid.gridinstance.cellsize;
     }
 
     void Update()
@@ -24,7 +38,7 @@ public class Preview : MonoBehaviour
 
     private void ChangeColor()
     {
-        if (colliderList.Count > 0) //충돌 물체가 하나 이상일 때 
+        if (colliderList.Count > 0 && !CanBuildable()) //충돌 물체가 하나 이상일 때 
         {
         //Debug.Log("업데이트");
             SetColor(red);
@@ -32,6 +46,27 @@ public class Preview : MonoBehaviour
 
         else { SetColor(green); /*Debug.Log("업데이트22222")*/;
         }
+    }
+
+    private bool CanBuildable()
+    {
+        Vector3 LBpos = new Vector3(this.transform.position.x - sizeX / 2, this.transform.position.y, this.transform.position.z-sizeZ/2);
+        Vector3 LUpos = new Vector3(this.transform.position.x - sizeX / 2, this.transform.position.y, this.transform.position.z+sizeZ/2);
+        Vector3 RBpos = new Vector3(this.transform.position.x + sizeX / 2, this.transform.position.y, this.transform.position.z-sizeZ/2);
+        Vector3 RUpos = new Vector3(this.transform.position.x + sizeX / 2, this.transform.position.y, this.transform.position.z+sizeZ/2);
+
+        LB = Grid.gridinstance.NodePoint(LBpos, cellsize).YDepthLB;
+        LU = Grid.gridinstance.NodePoint(LUpos, cellsize).YDepthLU;
+        RB = Grid.gridinstance.NodePoint(RBpos, cellsize).YDepthRB;
+        RU = Grid.gridinstance.NodePoint(RUpos, cellsize).YDepthRU;
+
+        float X1 = Mathf.Abs(LB - LU);
+        float X2 = Mathf.Abs(LU - RU);
+        float X3 = Mathf.Abs(RU - RB);
+        float X4 = Mathf.Abs(RB - LB);
+
+        return X1 < 0.2f && X2 < 0.2f && X3 < 0.2f && X4 < 0.2f;
+
     }
 
     private void SetColor(Material mat)

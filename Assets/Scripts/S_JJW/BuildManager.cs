@@ -48,7 +48,7 @@ public class BuildManager : MonoBehaviour
                 if (hitinfo.transform != null)
                 {
                     _location = hitinfo.point;
-                    _location.y = 0.5f;
+                 
 
 
                     if ((int)_location.x % 2 == 0) X = (int)_location.x;
@@ -59,7 +59,7 @@ public class BuildManager : MonoBehaviour
                     else Z = (int)(_location.z) - 1;
 
                     //Debug.Log(X + " : " + Z);
-                    buildPos = new Vector3(X, 1.0f, Z);
+                    buildPos = new Vector3(X, hitinfo.point.y, Z);
                     PreviewPrefab.transform.position = buildPos;
                 }
             }

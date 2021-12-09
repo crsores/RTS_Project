@@ -5,14 +5,40 @@ using UnityEngine;
 public class Obstacle : MonoBehaviour
 {
 
+    private bool isFlyBuilding = false;
+    private float sizeX = 0;
+    private float sizeZ = 0;
 
+    private float cellsize = 0f;
     private void Start()
     {
-        //        Debug.Log(this.transform.position);
-        //        Debug.Log(this.transform.localScale);
+
+        sizeX = this.transform.localScale.x;
+        sizeZ = this.transform.localScale.z;
+
 
         StartCoroutine("SetObstacleNode");
-        Debug.Log("Dd");
+
+        cellsize = Grid.gridinstance.cellsize;
+   
+    }
+
+
+    private void SetBuildingObs()
+    {
+        int X = (int)this.transform.localScale.x;
+        int Z = (int)this.transform.localScale.z;
+
+       
+        for(int i = 0; i < X/cellsize; i++)
+        {
+            for(int j = 0; j < Z/cellsize; j++)
+            {
+                Vector3 BuildingPos = new Vector3(this.transform.position.x - (X / 2)+i, this.transform.position.y, this.transform.position.z - (Z / 2)+j);
+                Node ObsBuildings = Grid.gridinstance.NodePoint(BuildingPos, cellsize);
+                ObsBuildings.walkable = false;
+            }
+        }
     }
 
     IEnumerator SetObstacleNode()

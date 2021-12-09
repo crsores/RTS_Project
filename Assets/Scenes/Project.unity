@@ -398,7 +398,7 @@ GameObject:
   - component: {fileID: 142801458}
   - component: {fileID: 142801457}
   m_Layer: 0
-  m_Name: TerrainGroup_0
+  m_Name: Floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -430,7 +430,7 @@ Transform:
   m_Children:
   - {fileID: 1145814388}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &149286195
 GameObject:
@@ -725,9 +725,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7370cb33200e30143b5d938d6484951d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  width: 260
-  height: 260
-  cellsize: 0.5
+  width: 130
+  height: 130
+  cellsize: 1
 --- !u!4 &157884852
 Transform:
   m_ObjectHideFlags: 0
@@ -741,82 +741,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &321215866
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 321215869}
-  - component: {fileID: 321215868}
-  - component: {fileID: 321215867}
-  m_Layer: 0
-  m_Name: Floor
-  m_TagString: ground
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
-  m_IsActive: 0
---- !u!154 &321215867
-TerrainCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 321215866}
-  m_Material: {fileID: 0}
-  m_Enabled: 1
-  m_TerrainData: {fileID: 15600000, guid: c7c2915c98556a24ebc7ba88e6093a86, type: 2}
-  m_EnableTreeColliders: 1
---- !u!218 &321215868
-Terrain:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 321215866}
-  m_Enabled: 1
-  serializedVersion: 6
-  m_TerrainData: {fileID: 15600000, guid: c7c2915c98556a24ebc7ba88e6093a86, type: 2}
-  m_TreeDistance: 5000
-  m_TreeBillboardDistance: 50
-  m_TreeCrossFadeLength: 5
-  m_TreeMaximumFullLODCount: 50
-  m_DetailObjectDistance: 80
-  m_DetailObjectDensity: 1
-  m_HeightmapPixelError: 5
-  m_SplatMapDistance: 1000
-  m_HeightmapMaximumLOD: 0
-  m_ShadowCastingMode: 2
-  m_DrawHeightmap: 1
-  m_DrawInstanced: 1
-  m_DrawTreesAndFoliage: 1
-  m_ReflectionProbeUsage: 1
-  m_MaterialTemplate: {fileID: 10652, guid: 0000000000000000f000000000000000, type: 0}
-  m_BakeLightProbesForTrees: 1
-  m_PreserveTreePrototypeLayers: 0
-  m_DeringLightProbesForTrees: 1
-  m_ScaleInLightmap: 0.0256
-  m_LightmapParameters: {fileID: 15203, guid: 0000000000000000f000000000000000, type: 0}
-  m_GroupingID: 0
-  m_RenderingLayerMask: 1
-  m_AllowAutoConnect: 1
---- !u!4 &321215869
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 321215866}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &331582872
 GameObject:
@@ -1247,7 +1171,7 @@ GameObject:
   - component: {fileID: 439903100}
   - component: {fileID: 439903099}
   - component: {fileID: 439903098}
-  m_Layer: 2
+  m_Layer: 6
   m_Name: Aperture
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2374,7 +2298,7 @@ GameObject:
   - component: {fileID: 1145814388}
   - component: {fileID: 1145814390}
   - component: {fileID: 1145814389}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Terrain_0_0_e61b9444-ab8e-4cb7-b4e0-f55cffe26d9e
   m_TagString: ground
   m_Icon: {fileID: 0}
@@ -2761,7 +2685,7 @@ Transform:
   m_LocalScale: {x: 13, y: 1, z: 13}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1325851318
 GameObject:
@@ -3246,7 +3170,7 @@ GameObject:
   - component: {fileID: 1646891461}
   - component: {fileID: 1646891465}
   - component: {fileID: 1646891466}
-  m_Layer: 2
+  m_Layer: 6
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3449,7 +3373,7 @@ GameObject:
   - component: {fileID: 1740567990}
   - component: {fileID: 1740567989}
   - component: {fileID: 1740567988}
-  m_Layer: 2
+  m_Layer: 6
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}

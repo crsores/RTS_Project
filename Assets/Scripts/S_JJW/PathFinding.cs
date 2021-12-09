@@ -196,9 +196,6 @@ public class PathFinding : MonoBehaviour
                 }
 
 
-                if (closedSet.Count >= 20000) { break;
-                    success = false;
-                }
 
 
 
