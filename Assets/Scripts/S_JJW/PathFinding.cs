@@ -46,6 +46,7 @@ public class PathFinding : MonoBehaviour
     private void Start()
     {
         cellsize = Grid.gridinstance.Getcellsize;   //Grid에서 설정한 cellsize저장
+         
     }
 
     private void Update()
@@ -327,7 +328,7 @@ public class PathFinding : MonoBehaviour
                 NodePos.y += 0.5f;
 
 
-                GameObject DD = Instantiate(Path_, NodePos, Quaternion.Euler(90, 0, 0));
+               // GameObject DD = Instantiate(Path_, NodePos, Quaternion.Euler(90, 0, 0));
                
             }
 

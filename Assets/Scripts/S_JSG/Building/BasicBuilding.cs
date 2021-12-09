@@ -18,9 +18,15 @@ namespace Building
             MissileTurret,
             Bunker,
             Factory,
+            FactoryAddOn,
             Armory,
             Starport,
             ScinceFacility,
+            NuclearAddOn,
+            ScanAddOn,
+            PhysicsLab,
+            CovertOps,
+            StarPortAddOn
 
 
         }
