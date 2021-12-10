@@ -14,11 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 5
   name: Academy
-<<<<<<< HEAD
   buildingPrefab: {fileID: 530772399222524394, guid: 22e71bde5db421a46ac941ed518873d2, type: 3}
-=======
-  buildingPrefab: {fileID: 2290868924838313474, guid: 8a2f20851506dd246b6aac12d7e564d2, type: 3}
->>>>>>> 6bb04c5a31a41f8872c12dcdf78b02c3aeb2dc4f
   icon: {fileID: 0}
   spawnTime: 80
   baseStats:
