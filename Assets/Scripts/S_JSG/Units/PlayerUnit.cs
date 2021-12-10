@@ -100,7 +100,7 @@ namespace Units.Player
             if (atkCooldown>=-1)
             atkCooldown -= Time.deltaTime;
 
-            MoveUnit();
+           // MoveUnit();
 
             checkForEnemyTargets();
 

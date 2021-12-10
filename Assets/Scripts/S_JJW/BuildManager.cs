@@ -48,8 +48,6 @@ public class BuildManager : MonoBehaviour
                 if (hitinfo.transform != null)
                 {
                     _location = hitinfo.point;
-                 
-
 
                     if ((int)_location.x % 2 == 0) X = (int)_location.x;
                     else X = (int)(_location.x) - 1;
