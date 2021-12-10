@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 4
   name: EnigneerungBay
-  buildingPrefab: {fileID: 0}
+  buildingPrefab: {fileID: 3848635424442705591, guid: 75531e2610306a244851c940945b6854, type: 3}
   icon: {fileID: 0}
   spawnTime: 60
   baseStats:
@@ -27,3 +27,4 @@ MonoBehaviour:
     ground: 1
     mechanic: 1
     building: 1
+    spawn: 0

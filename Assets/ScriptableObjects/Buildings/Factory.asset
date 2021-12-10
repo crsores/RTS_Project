@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 8
   name: Factory
-  buildingPrefab: {fileID: 0}
+  buildingPrefab: {fileID: 377531821038035710, guid: 2a8117c8f70da7440bf3078cf1aa9d73, type: 3}
   icon: {fileID: 0}
   spawnTime: 80
   baseStats:
@@ -27,3 +27,4 @@ MonoBehaviour:
     ground: 1
     mechanic: 1
     building: 1
+    spawn: 1

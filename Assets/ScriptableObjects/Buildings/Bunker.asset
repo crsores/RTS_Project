@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 7
   name: Bunker
-  buildingPrefab: {fileID: 0}
+  buildingPrefab: {fileID: 7587422234937687582, guid: bbafefc4342823840bb018c9a4149db6, type: 3}
   icon: {fileID: 0}
   spawnTime: 30
   baseStats:
@@ -27,3 +27,4 @@ MonoBehaviour:
     ground: 1
     mechanic: 1
     building: 1
+    spawn: 0

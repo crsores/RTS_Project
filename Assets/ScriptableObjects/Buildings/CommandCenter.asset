@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 0
   name: CommandCenter
-  buildingPrefab: {fileID: 6832546976083654960, guid: 4ee0b7beeaf102145b74f50922d8d3b9, type: 3}
+  buildingPrefab: {fileID: 8723536339271152076, guid: 0124dc1f20e04d543a9d70200230102a, type: 3}
   icon: {fileID: 5392786933212251445, guid: e9a1dc64b970cab4195e6934e4f7efba, type: 3}
   spawnTime: 120
   baseStats:
@@ -27,3 +27,4 @@ MonoBehaviour:
     ground: 1
     mechanic: 1
     building: 1
+    spawn: 1

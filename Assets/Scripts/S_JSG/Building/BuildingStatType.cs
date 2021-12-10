@@ -26,6 +26,9 @@ namespace Building
             public bool mechanic;
 
             public bool building;
+
+            public bool spawn;
+
         }
     }
 }

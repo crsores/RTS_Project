@@ -136,7 +136,9 @@ namespace InputManager
             }
             else if (Input.GetMouseButtonDown(1)&&selectedBuilding != null)
             {
-                selectedBuilding.gameObject.GetComponent<Interactables.IBuilding>().SetSpawnMarkerLocation();//마우스 클릭한곳 스폰 위치 지정
+
+                 if (selectedBuilding.GetComponent<Building.Player.PlayerBuilding>().baseStats.spawn==true)
+                selectedBuilding.gameObject.GetComponent<Building.BuildingSpawn>().SetSpawnMarkerLocation();//마우스 클릭한곳 스폰 위치 지정
             }
             else if (Input.GetMouseButtonDown(1) && selectedUnits.Count > 0)
             {
@@ -245,7 +247,7 @@ namespace InputManager
         {
             
             
-                selectedBuilding.GetComponent<Interactables.IBuilding>().StartSpawnTimer(objectToSpwan);
+                selectedBuilding.GetComponent<Building.BuildingSpawn>().StartSpawnTimer(objectToSpwan);
            
 
         }

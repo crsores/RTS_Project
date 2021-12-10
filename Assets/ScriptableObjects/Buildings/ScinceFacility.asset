@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f49a52eab785ff84e901d49c8c35a408, type: 3}
   m_Name: ScinceFacility
   m_EditorClassIdentifier: 
-  type: 11
+  type: 12
   name: ScinceFacility
-  buildingPrefab: {fileID: 0}
+  buildingPrefab: {fileID: 5349330984300266217, guid: 7b8dd23e76d19dd49b840513f6ec176a, type: 3}
   icon: {fileID: 0}
   spawnTime: 60
   baseStats:
@@ -27,3 +27,4 @@ MonoBehaviour:
     ground: 1
     mechanic: 1
     building: 1
+    spawn: 0

@@ -31,7 +31,7 @@ namespace UI.HUD
             }
            
         }
-        public void SetActionButtons(PlayerAction actions, GameObject spawnLocation,GameObject spawnLocation2) //버튼이 샛팅될때 (건물 클릭)
+        public void SetActionButtons(PlayerAction actions ) //버튼이 샛팅될때 (건물 클릭)
         {
             actionsList = actions;
             //spawnPoint = spawnLocation;
@@ -41,7 +41,7 @@ namespace UI.HUD
             {
                 foreach(Units.BasicUnit unit in actions.basicUnits)
                 {
-                    Debug.Log("ㅡㅡ");   
+                
                     //Button btn = Instantiate(actionButton, layoutGroup);
                     //btn.name = unit.name; 
                     GameObject icon = Instantiate(unit.icon, layoutGroup);

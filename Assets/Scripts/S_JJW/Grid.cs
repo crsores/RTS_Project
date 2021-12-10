@@ -18,10 +18,10 @@ public class Grid : MonoBehaviour
     {
         if (null == gridinstance) gridinstance = this;
         else Destroy(this.gameObject);
+        CreateGrid();
     }
     void Start()
     {
-        CreateGrid();
     }
 
     // Update is called once per frame
@@ -36,8 +36,6 @@ public class Grid : MonoBehaviour
         //{
         //    Debug.DrawLine(new Vector3(0, 0, y * cellsize), new Vector3(height * cellsize, 0, y * cellsize), Color.red);
         //}
-
-
     }
 
     float LU = 0;
@@ -57,23 +55,24 @@ public class Grid : MonoBehaviour
             {
                 RaycastHit hit;
 
+                int layerMask = (-1) - (1 << LayerMask.NameToLayer("Player_Unit"));
 
 
                 //  Vector3 worldPoint = worldBottomLeft + Vector3.right * (x + 0.5f) + Vector3.forward * (y + 0.5f);
 
-                if (Physics.Raycast(new Vector3(x * cellsize, 10, y * cellsize), Vector3.down, out hit, 100f))
+                if (Physics.Raycast(new Vector3(x * cellsize, 10, y * cellsize), Vector3.down, out hit, 100f,layerMask))
                 {
                     LB = hit.point.y;
                 }
-                if (Physics.Raycast(new Vector3(x * cellsize, 10, y * cellsize + cellsize), Vector3.down, out hit, 100f))
+                if (Physics.Raycast(new Vector3(x * cellsize, 10, y * cellsize + cellsize), Vector3.down, out hit, 100f, layerMask))
                 {
                     LU = hit.point.y;
                 }
-                if (Physics.Raycast(new Vector3(x * cellsize + cellsize, 10, y * cellsize), Vector3.down, out hit, 100f))
+                if (Physics.Raycast(new Vector3(x * cellsize + cellsize, 10, y * cellsize), Vector3.down, out hit, 100f, layerMask))
                 {
                     RB = hit.point.y;
                 }
-                if (Physics.Raycast(new Vector3(x * cellsize + cellsize, 10, y * cellsize + cellsize), Vector3.down, out hit, 100f))
+                if (Physics.Raycast(new Vector3(x * cellsize + cellsize, 10, y * cellsize + cellsize), Vector3.down, out hit, 100f, layerMask))
                 {
                     RU = hit.point.y;
                 }

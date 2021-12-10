@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 3
   name: Barracks
-  buildingPrefab: {fileID: 685154972832512606, guid: c19e7999ae1bf0f49b295fc5d043940e, type: 3}
+  buildingPrefab: {fileID: 8865917225831985342, guid: 7b196d1b72c8db64a9d5257c93052238, type: 3}
   icon: {fileID: 5392786933212251445, guid: e9a1dc64b970cab4195e6934e4f7efba, type: 3}
   spawnTime: 80
   baseStats:
@@ -27,3 +27,4 @@ MonoBehaviour:
     ground: 1
     mechanic: 1
     building: 1
+    spawn: 1

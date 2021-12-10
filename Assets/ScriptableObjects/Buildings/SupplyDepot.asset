@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   type: 1
   name: SupplyDepot
-  buildingPrefab: {fileID: 0}
+  buildingPrefab: {fileID: 677970269807502833, guid: 647a99a9acf74764a8c87f4e83aeb9e0, type: 3}
   icon: {fileID: 0}
   spawnTime: 40
   baseStats:
@@ -27,3 +27,4 @@ MonoBehaviour:
     ground: 1
     mechanic: 1
     building: 1
+    spawn: 0
